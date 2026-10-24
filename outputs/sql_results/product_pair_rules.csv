@@ -1,0 +1,855 @@
+antecedent,consequent,together,support,confidence,lift
+Baby Wipes,Diapers,436,0.0545,0.6976,7.961
+Diapers,Baby Wipes,436,0.0545,0.622,7.961
+Avocados,Flour Tortillas,470,0.0587,0.5774,5.668
+Flour Tortillas,Avocados,470,0.0587,0.5767,5.668
+Parmesan,Pasta Sauce,342,0.0428,0.6075,5.352
+Pasta Sauce,Parmesan,342,0.0428,0.3767,5.352
+Burger Buns,Ground Beef,503,0.0629,0.6853,5.312
+Ground Beef,Burger Buns,503,0.0629,0.4874,5.312
+Pasta Sauce,Spaghetti,637,0.0796,0.7015,5.182
+Spaghetti,Pasta Sauce,637,0.0796,0.5882,5.182
+Parmesan,Spaghetti,388,0.0485,0.6892,5.091
+Spaghetti,Parmesan,388,0.0485,0.3583,5.091
+Honey,Green Tea,293,0.0366,0.4302,4.583
+Green Tea,Honey,293,0.0366,0.3901,4.583
+Flour Tortillas,Salsa,489,0.0611,0.6,4.545
+Salsa,Flour Tortillas,489,0.0611,0.4631,4.545
+Salmon Fillet,Lemons,412,0.0515,0.5302,4.396
+Lemons,Salmon Fillet,412,0.0515,0.4269,4.396
+Burger Buns,Cheddar Cheese,372,0.0465,0.5068,4.141
+Cheddar Cheese,Burger Buns,372,0.0465,0.38,4.141
+Olive Oil,Salmon Fillet,224,0.028,0.3944,4.06
+Salmon Fillet,Olive Oil,224,0.028,0.2883,4.06
+Strawberries,Greek Yogurt,389,0.0486,0.5173,3.79
+Greek Yogurt,Strawberries,389,0.0486,0.3562,3.79
+Croissants,Ground Coffee,340,0.0425,0.5657,3.787
+Ground Coffee,Croissants,340,0.0425,0.2845,3.787
+Dark Chocolate,Red Wine,271,0.0339,0.4414,3.725
+Red Wine,Dark Chocolate,271,0.0339,0.2859,3.725
+Salsa,Tortilla Chips,629,0.0786,0.5956,3.711
+Tortilla Chips,Salsa,629,0.0786,0.4899,3.711
+Orange Juice,Smoked Bacon,261,0.0326,0.3723,3.571
+Smoked Bacon,Orange Juice,261,0.0326,0.3129,3.571
+Avocados,Salsa,383,0.0479,0.4705,3.565
+Salsa,Avocados,383,0.0479,0.3627,3.565
+Craft Beer 6-pack,Tortilla Chips,452,0.0565,0.565,3.52
+Tortilla Chips,Craft Beer 6-pack,452,0.0565,0.352,3.52
+Peanut Butter,Strawberry Jam,246,0.0307,0.3727,3.479
+Strawberry Jam,Peanut Butter,246,0.0307,0.287,3.479
+Smoked Bacon,Free-Range Eggs,549,0.0686,0.6583,3.152
+Free-Range Eggs,Smoked Bacon,549,0.0686,0.3285,3.152
+Green Tea,Lemons,275,0.0344,0.3662,3.036
+Lemons,Green Tea,275,0.0344,0.285,3.036
+Strawberry Jam,Butter,343,0.0429,0.4002,3.009
+Butter,Strawberry Jam,343,0.0429,0.3224,3.009
+Onions,Pasta Sauce,248,0.031,0.3411,3.006
+Pasta Sauce,Onions,248,0.031,0.2731,3.006
+Cheddar Cheese,Ground Beef,376,0.047,0.3841,2.977
+Ground Beef,Cheddar Cheese,376,0.047,0.3643,2.977
+Onions,Spaghetti,291,0.0364,0.4003,2.957
+Spaghetti,Onions,291,0.0364,0.2687,2.957
+Flour Tortillas,Ground Beef,310,0.0387,0.3804,2.949
+Ground Beef,Flour Tortillas,310,0.0387,0.3004,2.949
+Burger Buns,Tomatoes,304,0.038,0.4142,2.891
+Tomatoes,Burger Buns,304,0.038,0.2653,2.891
+Burger Buns,Lettuce,313,0.0391,0.4264,2.833
+Lettuce,Burger Buns,313,0.0391,0.26,2.833
+Honey,Greek Yogurt,263,0.0329,0.3862,2.829
+Greek Yogurt,Honey,263,0.0329,0.2408,2.829
+Craft Beer 6-pack,Salsa,296,0.037,0.37,2.803
+Salsa,Craft Beer 6-pack,296,0.037,0.2803,2.803
+Breakfast Cereal,Whole Milk,919,0.1149,0.6994,2.796
+Whole Milk,Breakfast Cereal,919,0.1149,0.4593,2.796
+Strawberry Jam,Sourdough Bread,617,0.0771,0.72,2.745
+Sourdough Bread,Strawberry Jam,617,0.0771,0.2941,2.745
+Parmesan,Onions,138,0.0173,0.2451,2.697
+Onions,Parmesan,138,0.0173,0.1898,2.697
+Butter,Sourdough Bread,744,0.093,0.6992,2.666
+Sourdough Bread,Butter,744,0.093,0.3546,2.666
+Olive Oil,Chicken Breast,215,0.0269,0.3785,2.617
+Chicken Breast,Olive Oil,215,0.0269,0.1858,2.617
+Red Wine,Cheddar Cheese,303,0.0379,0.3196,2.612
+Cheddar Cheese,Red Wine,303,0.0379,0.3095,2.612
+Honey,Strawberries,167,0.0209,0.2452,2.609
+Strawberries,Honey,167,0.0209,0.2221,2.609
+Tomatoes,Chicken Breast,427,0.0534,0.3726,2.576
+Chicken Breast,Tomatoes,427,0.0534,0.3691,2.576
+Olive Oil,Lemons,172,0.0215,0.3028,2.51
+Lemons,Olive Oil,172,0.0215,0.1782,2.51
+Chicken Breast,Lettuce,429,0.0536,0.3708,2.464
+Lettuce,Chicken Breast,429,0.0536,0.3563,2.464
+Avocados,Ground Beef,256,0.032,0.3145,2.438
+Ground Beef,Avocados,256,0.032,0.2481,2.438
+Tomatoes,Lettuce,418,0.0522,0.3647,2.424
+Lettuce,Tomatoes,418,0.0522,0.3472,2.424
+Bananas,Breakfast Cereal,522,0.0653,0.3979,2.422
+Breakfast Cereal,Bananas,522,0.0653,0.3973,2.422
+Olive Oil,Lettuce,207,0.0259,0.3644,2.422
+Lettuce,Olive Oil,207,0.0259,0.1719,2.422
+Orange Juice,Free-Range Eggs,352,0.044,0.5021,2.404
+Free-Range Eggs,Orange Juice,352,0.044,0.2107,2.404
+Salmon Fillet,Lettuce,278,0.0348,0.3578,2.377
+Lettuce,Salmon Fillet,278,0.0348,0.2309,2.377
+Dark Chocolate,Cheddar Cheese,178,0.0222,0.2899,2.369
+Cheddar Cheese,Dark Chocolate,178,0.0222,0.1818,2.369
+Flour Tortillas,Tortilla Chips,304,0.038,0.373,2.324
+Tortilla Chips,Flour Tortillas,304,0.038,0.2368,2.324
+Honey,Lemons,182,0.0227,0.2673,2.216
+Lemons,Honey,182,0.0227,0.1886,2.216
+Ground Beef,Lettuce,341,0.0426,0.3304,2.196
+Lettuce,Ground Beef,341,0.0426,0.2832,2.196
+Diapers,Craft Beer 6-pack,151,0.0189,0.2154,2.154
+Craft Beer 6-pack,Diapers,151,0.0189,0.1888,2.154
+Ground Beef,Tomatoes,313,0.0391,0.3033,2.117
+Tomatoes,Ground Beef,313,0.0391,0.2731,2.117
+Baby Wipes,Craft Beer 6-pack,127,0.0159,0.2032,2.032
+Craft Beer 6-pack,Baby Wipes,127,0.0159,0.1588,2.032
+Avocados,Tortilla Chips,263,0.0329,0.3231,2.013
+Tortilla Chips,Avocados,263,0.0329,0.2048,2.013
+Cheddar Cheese,Tomatoes,282,0.0352,0.288,2.011
+Tomatoes,Cheddar Cheese,282,0.0352,0.2461,2.011
+Ground Beef,Salsa,273,0.0341,0.2645,2.004
+Salsa,Ground Beef,273,0.0341,0.2585,2.004
+Ground Coffee,Whole Milk,595,0.0744,0.4979,1.991
+Whole Milk,Ground Coffee,595,0.0744,0.2974,1.991
+Free-Range Eggs,Sourdough Bread,864,0.108,0.5171,1.972
+Sourdough Bread,Free-Range Eggs,864,0.108,0.4118,1.972
+Red Wine,Spaghetti,253,0.0316,0.2669,1.971
+Spaghetti,Red Wine,253,0.0316,0.2336,1.971
+Pasta Sauce,Red Wine,210,0.0262,0.2313,1.952
+Red Wine,Pasta Sauce,210,0.0262,0.2215,1.952
+Peanut Butter,Sourdough Bread,327,0.0409,0.4955,1.889
+Sourdough Bread,Peanut Butter,327,0.0409,0.1559,1.889
+Butter,Free-Range Eggs,412,0.0515,0.3872,1.854
+Free-Range Eggs,Butter,412,0.0515,0.2466,1.854
+Parmesan,Red Wine,123,0.0154,0.2185,1.844
+Red Wine,Parmesan,123,0.0154,0.1297,1.844
+Peanut Butter,Bananas,199,0.0249,0.3015,1.839
+Bananas,Peanut Butter,199,0.0249,0.1517,1.839
+Olive Oil,Tomatoes,145,0.0181,0.2553,1.782
+Tomatoes,Olive Oil,145,0.0181,0.1265,1.782
+Bananas,Whole Milk,573,0.0716,0.4367,1.746
+Whole Milk,Bananas,573,0.0716,0.2864,1.746
+Croissants,Whole Milk,260,0.0325,0.4326,1.73
+Whole Milk,Croissants,260,0.0325,0.1299,1.73
+Lemons,Lettuce,250,0.0313,0.2591,1.721
+Lettuce,Lemons,250,0.0313,0.2076,1.721
+Cheddar Cheese,Lettuce,253,0.0316,0.2584,1.717
+Lettuce,Cheddar Cheese,253,0.0316,0.2101,1.717
+Strawberry Jam,Free-Range Eggs,282,0.0352,0.3291,1.575
+Free-Range Eggs,Strawberry Jam,282,0.0352,0.1688,1.575
+Smoked Bacon,Sourdough Bread,326,0.0408,0.3909,1.491
+Sourdough Bread,Smoked Bacon,326,0.0408,0.1554,1.491
+Onions,Red Wine,118,0.0147,0.1623,1.37
+Red Wine,Onions,118,0.0147,0.1245,1.37
+Strawberry Jam,Bananas,190,0.0238,0.2217,1.352
+Bananas,Strawberry Jam,190,0.0238,0.1448,1.352
+Ground Beef,Tortilla Chips,223,0.0279,0.2161,1.346
+Tortilla Chips,Ground Beef,223,0.0279,0.1737,1.346
+Orange Juice,Sourdough Bread,242,0.0302,0.3452,1.316
+Sourdough Bread,Orange Juice,242,0.0302,0.1153,1.316
+Sparkling Water,Tomatoes,87,0.0109,0.162,1.131
+Tomatoes,Sparkling Water,87,0.0109,0.0759,1.131
+Sparkling Water,Spaghetti,80,0.01,0.149,1.1
+Spaghetti,Sparkling Water,80,0.01,0.0739,1.1
+Sparkling Water,Tortilla Chips,93,0.0116,0.1732,1.079
+Tortilla Chips,Sparkling Water,93,0.0116,0.0724,1.079
+Avocados,Tomatoes,123,0.0154,0.1511,1.055
+Tomatoes,Avocados,123,0.0154,0.1073,1.055
+Craft Beer 6-pack,Butter,111,0.0139,0.1388,1.043
+Butter,Craft Beer 6-pack,111,0.0139,0.1043,1.043
+Bananas,Sourdough Bread,358,0.0447,0.2729,1.04
+Sourdough Bread,Bananas,358,0.0447,0.1706,1.04
+Croissants,Bananas,102,0.0127,0.1697,1.035
+Bananas,Croissants,102,0.0127,0.0777,1.035
+Onions,Bananas,121,0.0151,0.1664,1.015
+Bananas,Onions,121,0.0151,0.0922,1.015
+Dark Chocolate,Free-Range Eggs,130,0.0163,0.2117,1.014
+Orange Juice,Cheddar Cheese,87,0.0109,0.1241,1.014
+Cheddar Cheese,Orange Juice,87,0.0109,0.0889,1.014
+Free-Range Eggs,Dark Chocolate,130,0.0163,0.0778,1.014
+Orange Juice,Ground Coffee,105,0.0131,0.1498,1.003
+Ground Coffee,Orange Juice,105,0.0131,0.0879,1.003
+Dark Chocolate,Greek Yogurt,84,0.0105,0.1368,1.002
+Greek Yogurt,Dark Chocolate,84,0.0105,0.0769,1.002
+Diapers,Breakfast Cereal,115,0.0144,0.1641,0.999
+Breakfast Cereal,Diapers,115,0.0144,0.0875,0.999
+Onions,Breakfast Cereal,119,0.0149,0.1637,0.997
+Sparkling Water,Ground Coffee,80,0.01,0.149,0.997
+Salmon Fillet,Tomatoes,111,0.0139,0.1429,0.997
+Tomatoes,Salmon Fillet,111,0.0139,0.0969,0.997
+Breakfast Cereal,Onions,119,0.0149,0.0906,0.997
+Ground Coffee,Sparkling Water,80,0.01,0.0669,0.997
+Craft Beer 6-pack,Whole Milk,199,0.0249,0.2487,0.995
+Tomatoes,Bananas,187,0.0234,0.1632,0.995
+Bananas,Tomatoes,187,0.0234,0.1425,0.995
+Whole Milk,Craft Beer 6-pack,199,0.0249,0.0995,0.995
+Strawberries,Chicken Breast,108,0.0135,0.1436,0.993
+Chicken Breast,Strawberries,108,0.0135,0.0933,0.993
+Salmon Fillet,Chicken Breast,111,0.0139,0.1429,0.988
+Onions,Greek Yogurt,98,0.0123,0.1348,0.988
+Chicken Breast,Salmon Fillet,111,0.0139,0.0959,0.988
+Greek Yogurt,Onions,98,0.0123,0.0897,0.988
+Green Tea,Greek Yogurt,101,0.0126,0.1345,0.985
+Greek Yogurt,Green Tea,101,0.0126,0.0925,0.985
+Strawberry Jam,Ground Coffee,126,0.0158,0.147,0.984
+Ground Coffee,Strawberry Jam,126,0.0158,0.1054,0.984
+Diapers,Bananas,113,0.0141,0.1612,0.983
+Bananas,Diapers,113,0.0141,0.0861,0.983
+Chicken Breast,Bananas,186,0.0232,0.1608,0.98
+Smoked Bacon,Bananas,134,0.0168,0.1607,0.98
+Bananas,Chicken Breast,186,0.0232,0.1418,0.98
+Bananas,Smoked Bacon,134,0.0168,0.1021,0.98
+Diapers,Butter,91,0.0114,0.1298,0.976
+Butter,Diapers,91,0.0114,0.0855,0.976
+Lemons,Greek Yogurt,128,0.016,0.1326,0.972
+Greek Yogurt,Lemons,128,0.016,0.1172,0.972
+Greek Yogurt,Ground Coffee,158,0.0198,0.1447,0.969
+Ground Coffee,Greek Yogurt,158,0.0198,0.1322,0.969
+Avocados,Whole Milk,197,0.0246,0.242,0.968
+Whole Milk,Avocados,197,0.0246,0.0985,0.968
+Sparkling Water,Bananas,85,0.0106,0.1583,0.965
+Bananas,Sparkling Water,85,0.0106,0.0648,0.965
+Orange Juice,Whole Milk,169,0.0211,0.2411,0.964
+Whole Milk,Orange Juice,169,0.0211,0.0845,0.964
+Onions,Lettuce,105,0.0131,0.1444,0.96
+Lettuce,Onions,105,0.0131,0.0872,0.96
+Onions,Salsa,92,0.0115,0.1265,0.959
+Salsa,Onions,92,0.0115,0.0871,0.959
+Pasta Sauce,Ground Coffee,130,0.0163,0.1432,0.958
+Ground Coffee,Pasta Sauce,130,0.0163,0.1088,0.958
+Avocados,Breakfast Cereal,128,0.016,0.1572,0.957
+Cheddar Cheese,Ground Coffee,140,0.0175,0.143,0.957
+Ground Coffee,Cheddar Cheese,140,0.0175,0.1172,0.957
+Breakfast Cereal,Avocados,128,0.016,0.0974,0.957
+Dark Chocolate,Bananas,96,0.012,0.1564,0.953
+Cheddar Cheese,Bananas,153,0.0191,0.1563,0.953
+Flour Tortillas,Ground Coffee,116,0.0145,0.1423,0.953
+Bananas,Cheddar Cheese,153,0.0191,0.1166,0.953
+Ground Coffee,Flour Tortillas,116,0.0145,0.0971,0.953
+Bananas,Dark Chocolate,96,0.012,0.0732,0.953
+Spaghetti,Bananas,169,0.0211,0.156,0.952
+Bananas,Spaghetti,169,0.0211,0.1288,0.952
+Peanut Butter,Whole Milk,157,0.0196,0.2379,0.951
+Butter,Bananas,166,0.0208,0.156,0.951
+Orange Juice,Greek Yogurt,91,0.0114,0.1298,0.951
+Bananas,Butter,166,0.0208,0.1265,0.951
+Peanut Butter,Ground Beef,81,0.0101,0.1227,0.951
+Greek Yogurt,Orange Juice,91,0.0114,0.0833,0.951
+Ground Beef,Peanut Butter,81,0.0101,0.0785,0.951
+Whole Milk,Peanut Butter,157,0.0196,0.0785,0.951
+Greek Yogurt,Chicken Breast,150,0.0187,0.1374,0.95
+Chicken Breast,Greek Yogurt,150,0.0187,0.1296,0.95
+Diapers,Whole Milk,166,0.0208,0.2368,0.947
+Whole Milk,Diapers,166,0.0208,0.083,0.947
+Greek Yogurt,Sourdough Bread,271,0.0339,0.2482,0.946
+Sourdough Bread,Greek Yogurt,271,0.0339,0.1292,0.946
+Craft Beer 6-pack,Breakfast Cereal,124,0.0155,0.155,0.944
+Breakfast Cereal,Craft Beer 6-pack,124,0.0155,0.0944,0.944
+Strawberries,Sourdough Bread,186,0.0232,0.2473,0.943
+Greek Yogurt,Free-Range Eggs,215,0.0269,0.1969,0.943
+Free-Range Eggs,Greek Yogurt,215,0.0269,0.1287,0.943
+Sourdough Bread,Strawberries,186,0.0232,0.0887,0.943
+Smoked Bacon,Greek Yogurt,107,0.0134,0.1283,0.94
+Greek Yogurt,Smoked Bacon,107,0.0134,0.098,0.94
+Burger Buns,Greek Yogurt,94,0.0118,0.1281,0.938
+Greek Yogurt,Burger Buns,94,0.0118,0.0861,0.938
+Sparkling Water,Free-Range Eggs,105,0.0131,0.1955,0.936
+Free-Range Eggs,Sparkling Water,105,0.0131,0.0628,0.936
+Onions,Free-Range Eggs,142,0.0177,0.1953,0.935
+Dark Chocolate,Chicken Breast,83,0.0104,0.1352,0.935
+Red Wine,Tomatoes,127,0.0159,0.134,0.935
+Tomatoes,Red Wine,127,0.0159,0.1108,0.935
+Free-Range Eggs,Onions,142,0.0177,0.085,0.935
+Chicken Breast,Dark Chocolate,83,0.0104,0.0717,0.935
+Red Wine,Ground Coffee,132,0.0165,0.1392,0.932
+Ground Coffee,Red Wine,132,0.0165,0.1105,0.932
+Onions,Tomatoes,97,0.0121,0.1334,0.931
+Tomatoes,Onions,97,0.0121,0.0846,0.931
+Diapers,Sourdough Bread,171,0.0214,0.2439,0.93
+Salsa,Spaghetti,133,0.0166,0.1259,0.93
+Spaghetti,Salsa,133,0.0166,0.1228,0.93
+Sourdough Bread,Diapers,171,0.0214,0.0815,0.93
+Ground Coffee,Bananas,182,0.0227,0.1523,0.929
+Bananas,Ground Coffee,182,0.0227,0.1387,0.929
+Pasta Sauce,Chicken Breast,122,0.0152,0.1344,0.929
+Chicken Breast,Pasta Sauce,122,0.0152,0.1054,0.929
+Cheddar Cheese,Greek Yogurt,124,0.0155,0.1267,0.928
+Greek Yogurt,Cheddar Cheese,124,0.0155,0.1136,0.928
+Craft Beer 6-pack,Red Wine,88,0.011,0.11,0.928
+Red Wine,Craft Beer 6-pack,88,0.011,0.0928,0.928
+Strawberry Jam,Whole Milk,198,0.0248,0.231,0.924
+Whole Milk,Strawberry Jam,198,0.0248,0.099,0.924
+Cheddar Cheese,Tortilla Chips,145,0.0181,0.1481,0.923
+Honey,Tomatoes,90,0.0112,0.1322,0.923
+Tortilla Chips,Cheddar Cheese,145,0.0181,0.1129,0.923
+Tomatoes,Honey,90,0.0112,0.0785,0.923
+Orange Juice,Butter,86,0.0107,0.1227,0.922
+Flour Tortillas,Cheddar Cheese,92,0.0115,0.1129,0.922
+Cheddar Cheese,Flour Tortillas,92,0.0115,0.094,0.922
+Butter,Orange Juice,86,0.0107,0.0808,0.922
+Parmesan,Bananas,85,0.0106,0.151,0.921
+Onions,Ground Coffee,100,0.0125,0.1376,0.921
+Smoked Bacon,Cheddar Cheese,94,0.0118,0.1127,0.921
+Smoked Bacon,Red Wine,91,0.0114,0.1091,0.921
+Cheddar Cheese,Smoked Bacon,94,0.0118,0.096,0.921
+Red Wine,Smoked Bacon,91,0.0114,0.096,0.921
+Ground Coffee,Onions,100,0.0125,0.0837,0.921
+Bananas,Parmesan,85,0.0106,0.0648,0.921
+Chicken Breast,Ground Coffee,159,0.0199,0.1374,0.92
+Ground Coffee,Chicken Breast,159,0.0199,0.1331,0.92
+Flour Tortillas,Breakfast Cereal,123,0.0154,0.1509,0.919
+Breakfast Cereal,Flour Tortillas,123,0.0154,0.0936,0.919
+Onions,Ground Beef,86,0.0107,0.1183,0.917
+Ground Beef,Onions,86,0.0107,0.0833,0.917
+Sparkling Water,Whole Milk,123,0.0154,0.2291,0.916
+Butter,Breakfast Cereal,160,0.02,0.1504,0.916
+Breakfast Cereal,Butter,160,0.02,0.1218,0.916
+Whole Milk,Sparkling Water,123,0.0154,0.0615,0.916
+Butter,Whole Milk,243,0.0304,0.2284,0.913
+Tomatoes,Tortilla Chips,168,0.021,0.1466,0.913
+Tortilla Chips,Tomatoes,168,0.021,0.1308,0.913
+Whole Milk,Butter,243,0.0304,0.1214,0.913
+Strawberries,Cheddar Cheese,84,0.0105,0.1117,0.913
+Pasta Sauce,Lemons,100,0.0125,0.1101,0.913
+Lemons,Pasta Sauce,100,0.0125,0.1036,0.913
+Cheddar Cheese,Strawberries,84,0.0105,0.0858,0.913
+Onions,Lemons,80,0.01,0.11,0.912
+Lemons,Onions,80,0.01,0.0829,0.912
+Peanut Butter,Tomatoes,86,0.0107,0.1303,0.91
+Peanut Butter,Greek Yogurt,82,0.0103,0.1242,0.91
+Greek Yogurt,Peanut Butter,82,0.0103,0.0751,0.91
+Tomatoes,Peanut Butter,86,0.0107,0.075,0.91
+Avocados,Greek Yogurt,101,0.0126,0.1241,0.909
+Strawberries,Red Wine,81,0.0101,0.1077,0.909
+Greek Yogurt,Avocados,101,0.0126,0.0925,0.909
+Red Wine,Strawberries,81,0.0101,0.0854,0.909
+Diapers,Free-Range Eggs,133,0.0166,0.1897,0.908
+Onions,Tortilla Chips,106,0.0132,0.1458,0.908
+Greek Yogurt,Tomatoes,142,0.0177,0.13,0.908
+Tomatoes,Greek Yogurt,142,0.0177,0.1239,0.908
+Tortilla Chips,Onions,106,0.0132,0.0826,0.908
+Free-Range Eggs,Diapers,133,0.0166,0.0796,0.908
+Lettuce,Bananas,179,0.0224,0.1487,0.907
+Bananas,Lettuce,179,0.0224,0.1364,0.907
+Greek Yogurt,Breakfast Cereal,162,0.0203,0.1484,0.903
+Breakfast Cereal,Greek Yogurt,162,0.0203,0.1233,0.903
+Dark Chocolate,Breakfast Cereal,91,0.0114,0.1482,0.902
+Breakfast Cereal,Dark Chocolate,91,0.0114,0.0693,0.902
+Bananas,Free-Range Eggs,246,0.0307,0.1875,0.898
+Baby Wipes,Bananas,92,0.0115,0.1472,0.898
+Free-Range Eggs,Bananas,246,0.0307,0.1472,0.898
+Bananas,Baby Wipes,92,0.0115,0.0701,0.898
+Spaghetti,Whole Milk,243,0.0304,0.2244,0.897
+Red Wine,Chicken Breast,123,0.0154,0.1297,0.897
+Whole Milk,Spaghetti,243,0.0304,0.1214,0.897
+Orange Juice,Salsa,83,0.0104,0.1184,0.897
+Chicken Breast,Red Wine,123,0.0154,0.1063,0.897
+Salsa,Orange Juice,83,0.0104,0.0786,0.897
+Smoked Bacon,Whole Milk,187,0.0234,0.2242,0.896
+Baby Wipes,Breakfast Cereal,92,0.0115,0.1472,0.896
+Craft Beer 6-pack,Spaghetti,97,0.0121,0.1212,0.896
+Whole Milk,Smoked Bacon,187,0.0234,0.0935,0.896
+Spaghetti,Craft Beer 6-pack,97,0.0121,0.0896,0.896
+Breakfast Cereal,Baby Wipes,92,0.0115,0.07,0.896
+Strawberry Jam,Breakfast Cereal,126,0.0158,0.147,0.895
+Lemons,Salsa,114,0.0143,0.1181,0.895
+Salsa,Lemons,114,0.0143,0.108,0.895
+Breakfast Cereal,Strawberry Jam,126,0.0158,0.0959,0.895
+Salmon Fillet,Spaghetti,94,0.0118,0.121,0.894
+Spaghetti,Salmon Fillet,94,0.0118,0.0868,0.894
+Greek Yogurt,Whole Milk,244,0.0305,0.2234,0.893
+Whole Milk,Greek Yogurt,244,0.0305,0.1219,0.893
+Spaghetti,Lettuce,145,0.0181,0.1339,0.89
+Cheddar Cheese,Chicken Breast,126,0.0158,0.1287,0.89
+Flour Tortillas,Greek Yogurt,99,0.0124,0.1215,0.89
+Lettuce,Spaghetti,145,0.0181,0.1204,0.89
+Chicken Breast,Cheddar Cheese,126,0.0158,0.1089,0.89
+Greek Yogurt,Flour Tortillas,99,0.0124,0.0907,0.89
+Red Wine,Sourdough Bread,221,0.0276,0.2331,0.889
+Butter,Spaghetti,128,0.016,0.1203,0.889
+Spaghetti,Butter,128,0.016,0.1182,0.889
+Sourdough Bread,Red Wine,221,0.0276,0.1053,0.889
+Avocados,Ground Coffee,108,0.0135,0.1327,0.888
+Lemons,Chicken Breast,124,0.0155,0.1285,0.888
+Strawberry Jam,Chicken Breast,110,0.0138,0.1284,0.888
+Butter,Greek Yogurt,129,0.0161,0.1212,0.888
+Greek Yogurt,Butter,129,0.0161,0.1181,0.888
+Chicken Breast,Lemons,124,0.0155,0.1072,0.888
+Chicken Breast,Strawberry Jam,110,0.0138,0.0951,0.888
+Ground Coffee,Avocados,108,0.0135,0.0904,0.888
+Pasta Sauce,Bananas,132,0.0165,0.1454,0.886
+Bananas,Pasta Sauce,132,0.0165,0.1006,0.886
+Onions,Whole Milk,161,0.0201,0.2215,0.885
+Chicken Breast,Whole Milk,256,0.032,0.2213,0.885
+Green Tea,Lettuce,100,0.0125,0.1332,0.885
+Whole Milk,Chicken Breast,256,0.032,0.1279,0.885
+Lettuce,Green Tea,100,0.0125,0.0831,0.885
+Whole Milk,Onions,161,0.0201,0.0805,0.885
+Smoked Bacon,Ground Beef,95,0.0119,0.1139,0.883
+Ground Beef,Smoked Bacon,95,0.0119,0.0921,0.883
+Croissants,Sourdough Bread,139,0.0174,0.2313,0.882
+Salsa,Breakfast Cereal,153,0.0191,0.1449,0.882
+Breakfast Cereal,Salsa,153,0.0191,0.1164,0.882
+Strawberries,Lemons,80,0.01,0.1064,0.882
+Lemons,Strawberries,80,0.01,0.0829,0.882
+Sourdough Bread,Croissants,139,0.0174,0.0663,0.882
+Onions,Sourdough Bread,168,0.021,0.2311,0.881
+Butter,Ground Coffee,140,0.0175,0.1316,0.881
+Strawberries,Ground Coffee,99,0.0124,0.1316,0.881
+Ground Coffee,Butter,140,0.0175,0.1172,0.881
+Green Tea,Cheddar Cheese,81,0.0101,0.1079,0.881
+Ground Coffee,Strawberries,99,0.0124,0.0828,0.881
+Cheddar Cheese,Green Tea,81,0.0101,0.0827,0.881
+Sourdough Bread,Onions,168,0.021,0.0801,0.881
+Pasta Sauce,Butter,106,0.0132,0.1167,0.878
+Butter,Pasta Sauce,106,0.0132,0.0996,0.878
+Spaghetti,Tomatoes,136,0.017,0.1256,0.877
+Tomatoes,Spaghetti,136,0.017,0.1187,0.877
+Baby Wipes,Whole Milk,137,0.0171,0.2192,0.876
+Strawberries,Ground Beef,85,0.0106,0.113,0.876
+Flour Tortillas,Pasta Sauce,81,0.0101,0.0994,0.876
+Pasta Sauce,Flour Tortillas,81,0.0101,0.0892,0.876
+Ground Beef,Strawberries,85,0.0106,0.0824,0.876
+Whole Milk,Baby Wipes,137,0.0171,0.0685,0.876
+Orange Juice,Spaghetti,83,0.0104,0.1184,0.875
+Spaghetti,Orange Juice,83,0.0104,0.0766,0.875
+Burger Buns,Tortilla Chips,103,0.0129,0.1403,0.874
+Green Tea,Ground Coffee,98,0.0123,0.1305,0.874
+Ground Coffee,Green Tea,98,0.0123,0.082,0.874
+Tortilla Chips,Burger Buns,103,0.0129,0.0802,0.874
+Spaghetti,Sourdough Bread,248,0.031,0.229,0.873
+Parmesan,Whole Milk,123,0.0154,0.2185,0.873
+Avocados,Lettuce,107,0.0134,0.1314,0.873
+Strawberries,Tomatoes,94,0.0118,0.125,0.873
+Ground Beef,Greek Yogurt,123,0.0154,0.1192,0.873
+Sourdough Bread,Spaghetti,248,0.031,0.1182,0.873
+Greek Yogurt,Ground Beef,123,0.0154,0.1126,0.873
+Lettuce,Avocados,107,0.0134,0.0889,0.873
+Tomatoes,Strawberries,94,0.0118,0.082,0.873
+Whole Milk,Parmesan,123,0.0154,0.0615,0.873
+Strawberries,Whole Milk,164,0.0205,0.2181,0.872
+Peanut Butter,Ground Coffee,86,0.0107,0.1303,0.872
+Spaghetti,Ground Coffee,141,0.0176,0.1302,0.872
+Ground Coffee,Spaghetti,141,0.0176,0.118,0.872
+Whole Milk,Strawberries,164,0.0205,0.082,0.872
+Ground Coffee,Peanut Butter,86,0.0107,0.072,0.872
+Salmon Fillet,Bananas,111,0.0139,0.1429,0.871
+Smoked Bacon,Chicken Breast,105,0.0131,0.1259,0.871
+Chicken Breast,Smoked Bacon,105,0.0131,0.0908,0.871
+Bananas,Salmon Fillet,111,0.0139,0.0846,0.871
+Lettuce,Breakfast Cereal,172,0.0215,0.1429,0.87
+Orange Juice,Bananas,100,0.0125,0.1427,0.87
+Breakfast Cereal,Lettuce,172,0.0215,0.1309,0.87
+Bananas,Orange Juice,100,0.0125,0.0762,0.87
+Pasta Sauce,Sourdough Bread,207,0.0259,0.228,0.869
+Onions,Butter,84,0.0105,0.1155,0.869
+Salsa,Butter,122,0.0152,0.1155,0.869
+Butter,Salsa,122,0.0152,0.1147,0.869
+Sourdough Bread,Pasta Sauce,207,0.0259,0.0987,0.869
+Butter,Onions,84,0.0105,0.0789,0.869
+Flour Tortillas,Whole Milk,177,0.0221,0.2172,0.868
+Craft Beer 6-pack,Free-Range Eggs,145,0.0181,0.1812,0.868
+Chicken Breast,Breakfast Cereal,165,0.0206,0.1426,0.868
+Peanut Butter,Tortilla Chips,92,0.0115,0.1394,0.868
+Breakfast Cereal,Chicken Breast,165,0.0206,0.1256,0.868
+Smoked Bacon,Spaghetti,98,0.0123,0.1175,0.868
+Pasta Sauce,Salsa,104,0.013,0.1145,0.868
+Salsa,Pasta Sauce,104,0.013,0.0985,0.868
+Spaghetti,Smoked Bacon,98,0.0123,0.0905,0.868
+Whole Milk,Flour Tortillas,177,0.0221,0.0885,0.868
+Free-Range Eggs,Craft Beer 6-pack,145,0.0181,0.0868,0.868
+Tortilla Chips,Peanut Butter,92,0.0115,0.0717,0.868
+Flour Tortillas,Butter,94,0.0118,0.1153,0.867
+Cheddar Cheese,Salsa,112,0.014,0.1144,0.867
+Salsa,Cheddar Cheese,112,0.014,0.1061,0.867
+Butter,Flour Tortillas,94,0.0118,0.0883,0.867
+Lemons,Bananas,137,0.0171,0.142,0.866
+Diapers,Tomatoes,87,0.0109,0.1241,0.866
+Red Wine,Greek Yogurt,112,0.014,0.1181,0.866
+Bananas,Lemons,137,0.0171,0.1044,0.866
+Greek Yogurt,Red Wine,112,0.014,0.1026,0.866
+Tomatoes,Diapers,87,0.0109,0.0759,0.866
+Greek Yogurt,Bananas,155,0.0194,0.1419,0.865
+Bananas,Greek Yogurt,155,0.0194,0.1181,0.865
+Flour Tortillas,Lemons,85,0.0106,0.1043,0.865
+Lemons,Flour Tortillas,85,0.0106,0.0881,0.865
+Dark Chocolate,Sourdough Bread,139,0.0174,0.2264,0.863
+Salsa,Whole Milk,228,0.0285,0.2159,0.863
+Whole Milk,Salsa,228,0.0285,0.1139,0.863
+Sourdough Bread,Dark Chocolate,139,0.0174,0.0663,0.863
+Honey,Sourdough Bread,154,0.0192,0.2261,0.862
+Red Wine,Bananas,134,0.0168,0.1414,0.862
+Orange Juice,Tortilla Chips,97,0.0121,0.1384,0.862
+Butter,Lettuce,138,0.0173,0.1297,0.862
+Lettuce,Butter,138,0.0173,0.1146,0.862
+Bananas,Red Wine,134,0.0168,0.1021,0.862
+Tortilla Chips,Orange Juice,97,0.0121,0.0755,0.862
+Sourdough Bread,Honey,154,0.0192,0.0734,0.862
+Salsa,Free-Range Eggs,190,0.0238,0.1799,0.861
+Craft Beer 6-pack,Bananas,113,0.0141,0.1412,0.861
+Free-Range Eggs,Salsa,190,0.0238,0.1137,0.861
+Bananas,Craft Beer 6-pack,113,0.0141,0.0861,0.861
+Diapers,Ground Coffee,90,0.0112,0.1284,0.86
+Salsa,Greek Yogurt,124,0.0155,0.1174,0.86
+Greek Yogurt,Salsa,124,0.0155,0.1136,0.86
+Ground Coffee,Diapers,90,0.0112,0.0753,0.86
+Breakfast Cereal,Sourdough Bread,296,0.037,0.2253,0.859
+Sparkling Water,Sourdough Bread,121,0.0151,0.2253,0.859
+Red Wine,Free-Range Eggs,170,0.0213,0.1793,0.859
+Sourdough Bread,Breakfast Cereal,296,0.037,0.1411,0.859
+Free-Range Eggs,Red Wine,170,0.0213,0.1017,0.859
+Sourdough Bread,Sparkling Water,121,0.0151,0.0577,0.859
+Ground Coffee,Sourdough Bread,269,0.0336,0.2251,0.858
+Sourdough Bread,Ground Coffee,269,0.0336,0.1282,0.858
+Strawberries,Lettuce,97,0.0121,0.129,0.857
+Lettuce,Strawberries,97,0.0121,0.0806,0.857
+Lemons,Cheddar Cheese,101,0.0126,0.1047,0.855
+Cheddar Cheese,Lemons,101,0.0126,0.1032,0.855
+Whole Milk,Sourdough Bread,448,0.056,0.2239,0.854
+Sourdough Bread,Whole Milk,448,0.056,0.2135,0.854
+Lemons,Tomatoes,118,0.0147,0.1223,0.854
+Tomatoes,Lemons,118,0.0147,0.103,0.854
+Parmesan,Sourdough Bread,126,0.0158,0.2238,0.853
+Avocados,Sourdough Bread,182,0.0227,0.2236,0.853
+Flour Tortillas,Bananas,114,0.0143,0.1399,0.853
+Honey,Chicken Breast,84,0.0105,0.1233,0.853
+Bananas,Flour Tortillas,114,0.0143,0.0869,0.853
+Sourdough Bread,Avocados,182,0.0227,0.0867,0.853
+Chicken Breast,Honey,84,0.0105,0.0726,0.853
+Sourdough Bread,Parmesan,126,0.0158,0.0601,0.853
+Salsa,Sourdough Bread,236,0.0295,0.2235,0.852
+Smoked Bacon,Lettuce,107,0.0134,0.1283,0.852
+Sourdough Bread,Salsa,236,0.0295,0.1125,0.852
+Lettuce,Smoked Bacon,107,0.0134,0.0889,0.852
+Ground Coffee,Breakfast Cereal,167,0.0209,0.1397,0.851
+Strawberries,Bananas,105,0.0131,0.1396,0.851
+Breakfast Cereal,Ground Coffee,167,0.0209,0.1271,0.851
+Bananas,Strawberries,105,0.0131,0.08,0.851
+Lemons,Spaghetti,111,0.0139,0.115,0.85
+Spaghetti,Lemons,111,0.0139,0.1025,0.85
+Tortilla Chips,Breakfast Cereal,179,0.0224,0.1394,0.849
+Butter,Tortilla Chips,145,0.0181,0.1363,0.849
+Breakfast Cereal,Tortilla Chips,179,0.0224,0.1362,0.849
+Salsa,Ground Coffee,134,0.0168,0.1269,0.849
+Spaghetti,Chicken Breast,133,0.0166,0.1228,0.849
+Chicken Breast,Spaghetti,133,0.0166,0.115,0.849
+Tortilla Chips,Butter,145,0.0181,0.1129,0.849
+Ground Coffee,Salsa,134,0.0168,0.1121,0.849
+Avocados,Bananas,113,0.0141,0.1388,0.846
+Lemons,Tortilla Chips,131,0.0164,0.1358,0.846
+Onions,Chicken Breast,89,0.0111,0.1224,0.846
+Butter,Tomatoes,129,0.0161,0.1212,0.846
+Pasta Sauce,Tomatoes,110,0.0138,0.1211,0.846
+Tomatoes,Butter,129,0.0161,0.1126,0.846
+Tortilla Chips,Lemons,131,0.0164,0.102,0.846
+Tomatoes,Pasta Sauce,110,0.0138,0.096,0.846
+Bananas,Avocados,113,0.0141,0.0861,0.846
+Chicken Breast,Onions,89,0.0111,0.0769,0.846
+Chicken Breast,Tortilla Chips,157,0.0196,0.1357,0.845
+Tortilla Chips,Chicken Breast,157,0.0196,0.1223,0.845
+Avocados,Lemons,83,0.0104,0.102,0.845
+Lemons,Avocados,83,0.0104,0.086,0.845
+Chicken Breast,Free-Range Eggs,204,0.0255,0.1763,0.844
+Diapers,Tortilla Chips,95,0.0119,0.1355,0.844
+Free-Range Eggs,Chicken Breast,204,0.0255,0.1221,0.844
+Avocados,Spaghetti,93,0.0116,0.1143,0.844
+Spaghetti,Avocados,93,0.0116,0.0859,0.844
+Tortilla Chips,Diapers,95,0.0119,0.074,0.844
+Orange Juice,Breakfast Cereal,97,0.0121,0.1384,0.842
+Breakfast Cereal,Orange Juice,97,0.0121,0.0738,0.842
+Avocados,Chicken Breast,99,0.0124,0.1216,0.841
+Chicken Breast,Avocados,99,0.0124,0.0856,0.841
+Lettuce,Whole Milk,253,0.0316,0.2101,0.84
+Whole Milk,Lettuce,253,0.0316,0.1264,0.84
+Lettuce,Sourdough Bread,265,0.0331,0.2201,0.839
+Sourdough Bread,Lettuce,265,0.0331,0.1263,0.839
+Lemons,Ground Coffee,121,0.0151,0.1254,0.839
+Ground Coffee,Lemons,121,0.0151,0.1013,0.839
+Lemons,Sourdough Bread,212,0.0265,0.2197,0.838
+Salmon Fillet,Ground Beef,84,0.0105,0.1081,0.838
+Craft Beer 6-pack,Cheddar Cheese,82,0.0103,0.1025,0.838
+Sourdough Bread,Lemons,212,0.0265,0.101,0.838
+Cheddar Cheese,Craft Beer 6-pack,82,0.0103,0.0838,0.838
+Ground Beef,Salmon Fillet,84,0.0105,0.0814,0.838
+Green Tea,Tomatoes,90,0.0112,0.1198,0.837
+Tomatoes,Green Tea,90,0.0112,0.0785,0.837
+Croissants,Free-Range Eggs,105,0.0131,0.1747,0.836
+Diapers,Greek Yogurt,80,0.01,0.1141,0.836
+Green Tea,Spaghetti,85,0.0106,0.1132,0.836
+Strawberries,Salsa,83,0.0104,0.1104,0.836
+Salsa,Strawberries,83,0.0104,0.0786,0.836
+Spaghetti,Green Tea,85,0.0106,0.0785,0.836
+Greek Yogurt,Diapers,80,0.01,0.0733,0.836
+Free-Range Eggs,Croissants,105,0.0131,0.0628,0.836
+Green Tea,Free-Range Eggs,131,0.0164,0.1744,0.835
+Strawberries,Spaghetti,85,0.0106,0.113,0.835
+Smoked Bacon,Lemons,84,0.0105,0.1007,0.835
+Lemons,Smoked Bacon,84,0.0105,0.087,0.835
+Spaghetti,Strawberries,85,0.0106,0.0785,0.835
+Free-Range Eggs,Green Tea,131,0.0164,0.0784,0.835
+Craft Beer 6-pack,Greek Yogurt,91,0.0114,0.1138,0.833
+Red Wine,Butter,105,0.0131,0.1108,0.833
+Butter,Red Wine,105,0.0131,0.0987,0.833
+Greek Yogurt,Craft Beer 6-pack,91,0.0114,0.0833,0.833
+Spaghetti,Breakfast Cereal,148,0.0185,0.1367,0.832
+Breakfast Cereal,Spaghetti,148,0.0185,0.1126,0.832
+Croissants,Breakfast Cereal,82,0.0103,0.1364,0.831
+Avocados,Butter,90,0.0112,0.1106,0.831
+Strawberry Jam,Salsa,94,0.0118,0.1097,0.831
+Salsa,Strawberry Jam,94,0.0118,0.089,0.831
+Butter,Avocados,90,0.0112,0.0846,0.831
+Breakfast Cereal,Croissants,82,0.0103,0.0624,0.831
+Strawberries,Tortilla Chips,100,0.0125,0.133,0.829
+Tortilla Chips,Strawberries,100,0.0125,0.0779,0.829
+Tortilla Chips,Whole Milk,266,0.0333,0.2072,0.828
+Strawberries,Free-Range Eggs,130,0.0163,0.1729,0.828
+Spaghetti,Tortilla Chips,144,0.018,0.133,0.828
+Whole Milk,Tortilla Chips,266,0.0333,0.1329,0.828
+Tortilla Chips,Spaghetti,144,0.018,0.1121,0.828
+Free-Range Eggs,Strawberries,130,0.0163,0.0778,0.828
+Peanut Butter,Free-Range Eggs,114,0.0143,0.1727,0.827
+Green Tea,Breakfast Cereal,102,0.0127,0.1358,0.827
+Breakfast Cereal,Green Tea,102,0.0127,0.0776,0.827
+Free-Range Eggs,Peanut Butter,114,0.0143,0.0682,0.827
+Ground Beef,Breakfast Cereal,140,0.0175,0.1357,0.826
+Breakfast Cereal,Ground Beef,140,0.0175,0.1065,0.826
+Ground Beef,Ground Coffee,127,0.0159,0.1231,0.824
+Ground Coffee,Ground Beef,127,0.0159,0.1063,0.824
+Flour Tortillas,Sourdough Bread,176,0.022,0.216,0.823
+Tomatoes,Free-Range Eggs,197,0.0246,0.1719,0.823
+Lettuce,Tortilla Chips,159,0.0199,0.1321,0.823
+Tortilla Chips,Lettuce,159,0.0199,0.1238,0.823
+Free-Range Eggs,Tomatoes,197,0.0246,0.1179,0.823
+Sourdough Bread,Flour Tortillas,176,0.022,0.0839,0.823
+Cheddar Cheese,Free-Range Eggs,168,0.021,0.1716,0.822
+Greek Yogurt,Tortilla Chips,144,0.018,0.1319,0.822
+Flour Tortillas,Tomatoes,96,0.012,0.1178,0.822
+Tortilla Chips,Greek Yogurt,144,0.018,0.1121,0.822
+Free-Range Eggs,Cheddar Cheese,168,0.021,0.1005,0.822
+Tomatoes,Flour Tortillas,96,0.012,0.0838,0.822
+Ground Beef,Bananas,139,0.0174,0.1347,0.821
+Green Tea,Tortilla Chips,99,0.0124,0.1318,0.821
+Green Tea,Butter,82,0.0103,0.1092,0.821
+Bananas,Ground Beef,139,0.0174,0.1059,0.821
+Butter,Green Tea,82,0.0103,0.0771,0.821
+Tortilla Chips,Green Tea,99,0.0124,0.0771,0.821
+Dark Chocolate,Whole Milk,126,0.0158,0.2052,0.82
+Breakfast Cereal,Free-Range Eggs,225,0.0281,0.1712,0.82
+Free-Range Eggs,Breakfast Cereal,225,0.0281,0.1346,0.82
+Whole Milk,Dark Chocolate,126,0.0158,0.063,0.82
+Baby Wipes,Sourdough Bread,134,0.0168,0.2144,0.818
+Spaghetti,Free-Range Eggs,185,0.0231,0.1708,0.818
+Tomatoes,Breakfast Cereal,154,0.0192,0.1344,0.818
+Smoked Bacon,Breakfast Cereal,112,0.014,0.1343,0.818
+Breakfast Cereal,Tomatoes,154,0.0192,0.1172,0.818
+Free-Range Eggs,Spaghetti,185,0.0231,0.1107,0.818
+Breakfast Cereal,Smoked Bacon,112,0.014,0.0852,0.818
+Sourdough Bread,Baby Wipes,134,0.0168,0.0639,0.818
+Strawberry Jam,Red Wine,83,0.0104,0.0968,0.817
+Red Wine,Strawberry Jam,83,0.0104,0.0876,0.817
+Flour Tortillas,Spaghetti,90,0.0112,0.1104,0.816
+Spaghetti,Flour Tortillas,90,0.0112,0.0831,0.816
+Avocados,Cheddar Cheese,81,0.0101,0.0995,0.813
+Cheddar Cheese,Avocados,81,0.0101,0.0827,0.813
+Tomatoes,Sourdough Bread,244,0.0305,0.2129,0.812
+Baby Wipes,Free-Range Eggs,106,0.0132,0.1696,0.812
+Pasta Sauce,Lettuce,111,0.0139,0.1222,0.812
+Sourdough Bread,Tomatoes,244,0.0305,0.1163,0.812
+Lettuce,Pasta Sauce,111,0.0139,0.0922,0.812
+Free-Range Eggs,Baby Wipes,106,0.0132,0.0634,0.812
+Pasta Sauce,Whole Milk,184,0.023,0.2026,0.81
+Salmon Fillet,Tortilla Chips,101,0.0126,0.13,0.81
+Burger Buns,Chicken Breast,86,0.0107,0.1172,0.81
+Whole Milk,Pasta Sauce,184,0.023,0.092,0.81
+Tortilla Chips,Salmon Fillet,101,0.0126,0.0787,0.81
+Chicken Breast,Burger Buns,86,0.0107,0.0743,0.81
+Tortilla Chips,Sourdough Bread,272,0.034,0.2118,0.808
+Red Wine,Tortilla Chips,123,0.0154,0.1297,0.808
+Sourdough Bread,Tortilla Chips,272,0.034,0.1296,0.808
+Tortilla Chips,Red Wine,123,0.0154,0.0958,0.808
+Salmon Fillet,Sourdough Bread,164,0.0205,0.2111,0.805
+Cheddar Cheese,Whole Milk,197,0.0246,0.2012,0.805
+Honey,Tortilla Chips,88,0.011,0.1292,0.805
+Whole Milk,Cheddar Cheese,197,0.0246,0.0985,0.805
+Sourdough Bread,Salmon Fillet,164,0.0205,0.0782,0.805
+Tortilla Chips,Honey,88,0.011,0.0685,0.805
+Chicken Breast,Sourdough Bread,244,0.0305,0.2109,0.804
+Free-Range Eggs,Whole Milk,336,0.042,0.2011,0.804
+Whole Milk,Free-Range Eggs,336,0.042,0.1679,0.804
+Sourdough Bread,Chicken Breast,244,0.0305,0.1163,0.804
+Peanut Butter,Breakfast Cereal,87,0.0109,0.1318,0.803
+Salsa,Bananas,139,0.0174,0.1316,0.803
+Greek Yogurt,Lettuce,132,0.0165,0.1209,0.803
+Lettuce,Greek Yogurt,132,0.0165,0.1096,0.803
+Bananas,Salsa,139,0.0174,0.1059,0.803
+Breakfast Cereal,Peanut Butter,87,0.0109,0.0662,0.803
+Green Tea,Sourdough Bread,158,0.0198,0.2104,0.802
+Ground Beef,Whole Milk,207,0.0259,0.2006,0.802
+Strawberries,Breakfast Cereal,99,0.0124,0.1316,0.802
+Strawberry Jam,Spaghetti,93,0.0116,0.1085,0.802
+Whole Milk,Ground Beef,207,0.0259,0.1034,0.802
+Spaghetti,Strawberry Jam,93,0.0116,0.0859,0.802
+Breakfast Cereal,Strawberries,99,0.0124,0.0753,0.802
+Sourdough Bread,Green Tea,158,0.0198,0.0753,0.802
+Salmon Fillet,Greek Yogurt,85,0.0106,0.1094,0.801
+Greek Yogurt,Salmon Fillet,85,0.0106,0.0778,0.801
+Salmon Fillet,Salsa,82,0.0103,0.1055,0.8
+Salsa,Salmon Fillet,82,0.0103,0.0777,0.8
+Parmesan,Free-Range Eggs,94,0.0118,0.167,0.799
+Salsa,Chicken Breast,122,0.0152,0.1155,0.799
+Smoked Bacon,Salsa,88,0.011,0.1055,0.799
+Chicken Breast,Salsa,122,0.0152,0.1054,0.799
+Salsa,Smoked Bacon,88,0.011,0.0833,0.799
+Free-Range Eggs,Parmesan,94,0.0118,0.0563,0.799
+Tortilla Chips,Bananas,168,0.021,0.1308,0.798
+Bananas,Tortilla Chips,168,0.021,0.128,0.798
+Ground Coffee,Free-Range Eggs,199,0.0249,0.1665,0.797
+Free-Range Eggs,Ground Coffee,199,0.0249,0.1191,0.797
+Ground Beef,Chicken Breast,119,0.0149,0.1153,0.797
+Chicken Breast,Ground Beef,119,0.0149,0.1029,0.797
+Red Wine,Breakfast Cereal,124,0.0155,0.1308,0.796
+Orange Juice,Lettuce,84,0.0105,0.1198,0.796
+Breakfast Cereal,Red Wine,124,0.0155,0.0944,0.796
+Lettuce,Orange Juice,84,0.0105,0.0698,0.796
+Craft Beer 6-pack,Ground Coffee,95,0.0119,0.1187,0.795
+Ground Coffee,Craft Beer 6-pack,95,0.0119,0.0795,0.795
+Lemons,Free-Range Eggs,160,0.02,0.1658,0.794
+Free-Range Eggs,Lemons,160,0.02,0.0958,0.794
+Smoked Bacon,Butter,88,0.011,0.1055,0.793
+Red Wine,Ground Beef,97,0.0121,0.1023,0.793
+Ground Beef,Red Wine,97,0.0121,0.094,0.793
+Butter,Smoked Bacon,88,0.011,0.0827,0.793
+Green Tea,Chicken Breast,86,0.0107,0.1145,0.792
+Chicken Breast,Green Tea,86,0.0107,0.0743,0.792
+Craft Beer 6-pack,Sourdough Bread,166,0.0208,0.2075,0.791
+Cheddar Cheese,Butter,103,0.0129,0.1052,0.791
+Butter,Cheddar Cheese,103,0.0129,0.0968,0.791
+Sourdough Bread,Craft Beer 6-pack,166,0.0208,0.0791,0.791
+Burger Buns,Free-Range Eggs,121,0.0151,0.1649,0.789
+Free-Range Eggs,Burger Buns,121,0.0151,0.0724,0.789
+Green Tea,Whole Milk,148,0.0185,0.1971,0.788
+Avocados,Free-Range Eggs,134,0.0168,0.1646,0.788
+Free-Range Eggs,Avocados,134,0.0168,0.0802,0.788
+Whole Milk,Green Tea,148,0.0185,0.074,0.788
+Cheddar Cheese,Sourdough Bread,202,0.0253,0.2063,0.787
+Honey,Breakfast Cereal,88,0.011,0.1292,0.787
+Salsa,Lettuce,125,0.0156,0.1184,0.787
+Lettuce,Salsa,125,0.0156,0.1038,0.787
+Lemons,Ground Beef,98,0.0123,0.1016,0.787
+Sourdough Bread,Cheddar Cheese,202,0.0253,0.0963,0.787
+Ground Beef,Lemons,98,0.0123,0.095,0.787
+Breakfast Cereal,Honey,88,0.011,0.067,0.787
+Tomatoes,Ground Coffee,134,0.0168,0.1169,0.783
+Ground Coffee,Tomatoes,134,0.0168,0.1121,0.783
+Honey,Whole Milk,133,0.0166,0.1953,0.781
+Whole Milk,Honey,133,0.0166,0.0665,0.781
+Green Tea,Bananas,96,0.012,0.1278,0.779
+Smoked Bacon,Ground Coffee,97,0.0121,0.1163,0.779
+Ground Coffee,Smoked Bacon,97,0.0121,0.0812,0.779
+Bananas,Green Tea,96,0.012,0.0732,0.779
+Craft Beer 6-pack,Chicken Breast,90,0.0112,0.1125,0.778
+Chicken Breast,Craft Beer 6-pack,90,0.0112,0.0778,0.778
+Cheddar Cheese,Breakfast Cereal,125,0.0156,0.1277,0.777
+Breakfast Cereal,Cheddar Cheese,125,0.0156,0.0951,0.777
+Tortilla Chips,Free-Range Eggs,208,0.026,0.162,0.776
+Free-Range Eggs,Tortilla Chips,208,0.026,0.1245,0.776
+Pasta Sauce,Free-Range Eggs,147,0.0184,0.1619,0.775
+Flour Tortillas,Lettuce,95,0.0119,0.1166,0.775
+Free-Range Eggs,Pasta Sauce,147,0.0184,0.088,0.775
+Lettuce,Flour Tortillas,95,0.0119,0.0789,0.775
+Tomatoes,Whole Milk,222,0.0278,0.1937,0.774
+Whole Milk,Tomatoes,222,0.0278,0.1109,0.774
+Burger Buns,Bananas,93,0.0116,0.1267,0.773
+Bananas,Burger Buns,93,0.0116,0.0709,0.773
+Pasta Sauce,Breakfast Cereal,115,0.0144,0.1267,0.771
+Breakfast Cereal,Pasta Sauce,115,0.0144,0.0875,0.771
+Pasta Sauce,Tortilla Chips,112,0.014,0.1233,0.769
+Tortilla Chips,Pasta Sauce,112,0.014,0.0872,0.769
+Salmon Fillet,Breakfast Cereal,98,0.0123,0.1261,0.768
+Breakfast Cereal,Salmon Fillet,98,0.0123,0.0746,0.768
+Lettuce,Free-Range Eggs,193,0.0241,0.1603,0.767
+Free-Range Eggs,Lettuce,193,0.0241,0.1155,0.767
+Red Wine,Salsa,96,0.012,0.1013,0.767
+Salsa,Red Wine,96,0.012,0.0909,0.767
+Ground Beef,Butter,105,0.0131,0.1017,0.765
+Butter,Ground Beef,105,0.0131,0.0987,0.765
+Pasta Sauce,Cheddar Cheese,85,0.0106,0.0936,0.765
+Cheddar Cheese,Pasta Sauce,85,0.0106,0.0868,0.765
+Flour Tortillas,Free-Range Eggs,130,0.0163,0.1595,0.764
+Free-Range Eggs,Flour Tortillas,130,0.0163,0.0778,0.764
+Lemons,Breakfast Cereal,121,0.0151,0.1254,0.763
+Breakfast Cereal,Lemons,121,0.0151,0.0921,0.763
+Smoked Bacon,Tortilla Chips,102,0.0127,0.1223,0.762
+Cheddar Cheese,Spaghetti,101,0.0126,0.1032,0.762
+Spaghetti,Cheddar Cheese,101,0.0126,0.0933,0.762
+Tortilla Chips,Smoked Bacon,102,0.0127,0.0794,0.762
+Ground Beef,Sourdough Bread,206,0.0257,0.1996,0.761
+Honey,Bananas,85,0.0106,0.1248,0.761
+Sourdough Bread,Ground Beef,206,0.0257,0.0982,0.761
+Bananas,Honey,85,0.0106,0.0648,0.761
+Butter,Chicken Breast,117,0.0146,0.11,0.76
+Chicken Breast,Butter,117,0.0146,0.1011,0.76
+Salmon Fillet,Free-Range Eggs,123,0.0154,0.1583,0.758
+Diapers,Lettuce,80,0.01,0.1141,0.758
+Free-Range Eggs,Salmon Fillet,123,0.0154,0.0736,0.758
+Lettuce,Diapers,80,0.01,0.0664,0.758
+Burger Buns,Ground Coffee,83,0.0104,0.1131,0.757
+Ground Coffee,Burger Buns,83,0.0104,0.0695,0.757
+Ground Coffee,Lettuce,136,0.017,0.1138,0.756
+Lettuce,Ground Coffee,136,0.017,0.113,0.756
+Salsa,Tomatoes,114,0.0143,0.108,0.754
+Tomatoes,Salsa,114,0.0143,0.0995,0.754
+Burger Buns,Sourdough Bread,145,0.0181,0.1975,0.753
+Sourdough Bread,Burger Buns,145,0.0181,0.0691,0.753
+Honey,Free-Range Eggs,107,0.0134,0.1571,0.752
+Ground Beef,Spaghetti,105,0.0131,0.1017,0.752
+Spaghetti,Ground Beef,105,0.0131,0.097,0.752
+Red Wine,Lemons,86,0.0107,0.0907,0.752
+Lemons,Red Wine,86,0.0107,0.0891,0.752
+Free-Range Eggs,Honey,107,0.0134,0.064,0.752
+Spaghetti,Greek Yogurt,111,0.0139,0.1025,0.751
+Greek Yogurt,Spaghetti,111,0.0139,0.1016,0.751
+Pasta Sauce,Ground Beef,87,0.0109,0.0958,0.743
+Ground Beef,Pasta Sauce,87,0.0109,0.0843,0.743
+Salmon Fillet,Ground Coffee,86,0.0107,0.1107,0.741
+Ground Coffee,Salmon Fillet,86,0.0107,0.072,0.741
+Olive Oil,Whole Milk,105,0.0131,0.1849,0.739
+Whole Milk,Olive Oil,105,0.0131,0.0525,0.739
+Red Wine,Lettuce,105,0.0131,0.1108,0.736
+Lettuce,Red Wine,105,0.0131,0.0872,0.736
+Burger Buns,Whole Milk,135,0.0169,0.1839,0.735
+Whole Milk,Burger Buns,135,0.0169,0.0675,0.735
+Strawberry Jam,Tomatoes,90,0.0112,0.105,0.733
+Strawberry Jam,Ground Beef,81,0.0101,0.0945,0.733
+Ground Beef,Strawberry Jam,81,0.0101,0.0785,0.733
+Tomatoes,Strawberry Jam,90,0.0112,0.0785,0.733
+Ground Coffee,Tortilla Chips,140,0.0175,0.1172,0.73
+Tortilla Chips,Ground Coffee,140,0.0175,0.109,0.73
+Smoked Bacon,Tomatoes,87,0.0109,0.1043,0.728
+Tomatoes,Smoked Bacon,87,0.0109,0.0759,0.728
+Strawberry Jam,Tortilla Chips,100,0.0125,0.1167,0.727
+Strawberry Jam,Greek Yogurt,85,0.0106,0.0992,0.727
+Tortilla Chips,Strawberry Jam,100,0.0125,0.0779,0.727
+Greek Yogurt,Strawberry Jam,85,0.0106,0.0778,0.727
+Red Wine,Whole Milk,172,0.0215,0.1814,0.725
+Whole Milk,Red Wine,172,0.0215,0.086,0.725
+Ground Beef,Free-Range Eggs,156,0.0195,0.1512,0.724
+Free-Range Eggs,Ground Beef,156,0.0195,0.0934,0.724
+Olive Oil,Sourdough Bread,107,0.0134,0.1884,0.718
+Pasta Sauce,Greek Yogurt,89,0.0111,0.098,0.718
+Greek Yogurt,Pasta Sauce,89,0.0111,0.0815,0.718
+Sourdough Bread,Olive Oil,107,0.0134,0.051,0.718
+Salmon Fillet,Whole Milk,138,0.0173,0.1776,0.71
+Whole Milk,Salmon Fillet,138,0.0173,0.069,0.71
+Craft Beer 6-pack,Tomatoes,80,0.01,0.1,0.698
+Tomatoes,Craft Beer 6-pack,80,0.01,0.0698,0.698
+Lemons,Whole Milk,168,0.021,0.1741,0.696
+Whole Milk,Lemons,168,0.021,0.084,0.696
+Lemons,Butter,88,0.011,0.0912,0.686
+Butter,Lemons,88,0.011,0.0827,0.686
+Burger Buns,Breakfast Cereal,81,0.0101,0.1104,0.672
+Breakfast Cereal,Burger Buns,81,0.0101,0.0616,0.672
+Strawberry Jam,Lettuce,85,0.0106,0.0992,0.659
+Lettuce,Strawberry Jam,85,0.0106,0.0706,0.659

@@ -1,0 +1,10 @@
+check_name,row_count
+raw line items,38652
+cancelled invoice lines,274
+"returns (quantity <= 0, not cancelled)",120
+zero-price test rows,15
+missing product_name,191
+non-canonical product_name,1147
+exact duplicate lines,379
+guest checkouts (no customer_id),935
+clean line items,37864

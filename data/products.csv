@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price
+P001,Whole Milk,Dairy,1.49
+P002,Butter,Dairy,3.29
+P003,Cheddar Cheese,Dairy,4.99
+P004,Greek Yogurt,Dairy,1.19
+P005,Free-Range Eggs,Dairy,3.79
+P006,Parmesan,Dairy,5.49
+P007,Sourdough Bread,Bakery,3.99
+P008,Burger Buns,Bakery,2.49
+P009,Croissants,Bakery,3.49
+P010,Flour Tortillas,Bakery,2.29
+P011,Bananas,Produce,1.29
+P012,Avocados,Produce,1.99
+P013,Tomatoes,Produce,2.19
+P014,Onions,Produce,1.09
+P015,Lettuce,Produce,1.79
+P016,Lemons,Produce,0.69
+P017,Strawberries,Produce,3.99
+P018,Spaghetti,Pantry,1.59
+P019,Pasta Sauce,Pantry,2.99
+P020,Breakfast Cereal,Pantry,3.89
+P021,Strawberry Jam,Pantry,2.79
+P022,Peanut Butter,Pantry,3.49
+P023,Honey,Pantry,4.49
+P024,Olive Oil,Pantry,7.99
+P025,Ground Coffee,Beverages,6.99
+P026,Green Tea,Beverages,3.29
+P027,Orange Juice,Beverages,3.49
+P028,Sparkling Water,Beverages,0.99
+P029,Craft Beer 6-pack,Alcohol,9.99
+P030,Red Wine,Alcohol,11.99
+P031,Tortilla Chips,Snacks,2.99
+P032,Salsa,Snacks,3.19
+P033,Dark Chocolate,Snacks,2.49
+P034,Ground Beef,Meat & Seafood,6.49
+P035,Chicken Breast,Meat & Seafood,7.49
+P036,Smoked Bacon,Meat & Seafood,4.99
+P037,Salmon Fillet,Meat & Seafood,9.99
+P038,Diapers,Baby & Household,12.99
+P039,Baby Wipes,Baby & Household,3.99
+P040,Paper Towels,Baby & Household,5.49

@@ -1,0 +1,2 @@
+transactions,customers,products,revenue,avg_order_value,avg_items_per_basket,avg_units_per_basket,pct_single_item_baskets
+8000,2108,40,239446.04,29.93,4.73,7.43,4.9

@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FreshCart Basket Insights</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="fc">
+  <header class="fc-head">
+    <div class="fc-head-row">
+      <h1 class="fc-title" id="title">FreshCart basket insights</h1>
+      <button type="button" class="fc-btn" id="theme-toggle" aria-label="Switch colour theme">Dark theme</button>
+    </div>
+    <p class="fc-take" id="takeaway"></p>
+  </header>
+
+  <div class="fc-kpis" id="kpis">
+    <div class="fc-kpi"><span class="fc-kpi-label">Baskets</span><span class="fc-kpi-value" data-kpi="transactions">—</span><span class="fc-kpi-note">Jan–Dec 2025, 3 stores</span></div>
+    <div class="fc-kpi"><span class="fc-kpi-label">Average order value</span><span class="fc-kpi-value" data-kpi="avg_order_value">—</span><span class="fc-kpi-note">Revenue per basket</span></div>
+    <div class="fc-kpi"><span class="fc-kpi-label">Products per basket</span><span class="fc-kpi-value" data-kpi="avg_items_per_basket">—</span><span class="fc-kpi-note">Distinct items, on average</span></div>
+    <div class="fc-kpi"><span class="fc-kpi-label">Revenue</span><span class="fc-kpi-value" data-kpi="revenue">—</span><span class="fc-kpi-note">After returns and cancellations</span></div>
+    <div class="fc-kpi"><span class="fc-kpi-label">Single-item baskets</span><span class="fc-kpi-value" data-kpi="pct_single_item_baskets">—</span><span class="fc-kpi-note">Share bought alone</span></div>
+    <div class="fc-kpi"><span class="fc-kpi-label">Strong rules</span><span class="fc-kpi-value" data-kpi="rules">—</span><span class="fc-kpi-note">Lift ≥ 1.2, confidence ≥ 25%</span></div>
+  </div>
+
+  <nav class="fc-tabs" role="tablist" aria-label="Dashboard views">
+    <button class="fc-tab" role="tab" data-tab="rules-explorer" aria-selected="true">Rule explorer</button>
+    <button class="fc-tab" role="tab" data-tab="recommender" aria-selected="false">Recommender</button>
+    <button class="fc-tab" role="tab" data-tab="network" aria-selected="false">Association network</button>
+    <button class="fc-tab" role="tab" data-tab="patterns" aria-selected="false">Shopping patterns</button>
+  </nav>
+
+  <section class="fc-section" id="panel-rules-explorer" role="tabpanel">
+    <div class="fc-card" id="rule-filters">
+      <div class="fc-controls">
+        <label class="fc-field" for="f-lift"><span class="fc-field-top">Minimum lift <output id="o-lift">1.2</output></span><input id="f-lift" type="range" min="1.2" max="10" step="0.1" value="1.2"></label>
+        <label class="fc-field" for="f-conf"><span class="fc-field-top">Minimum confidence <output id="o-conf">25%</output></span><input id="f-conf" type="range" min="0.25" max="0.95" step="0.05" value="0.25"></label>
+        <label class="fc-field" for="f-size">Rule size
+          <select id="f-size">
+            <option value="all">All sizes</option>
+            <option value="2">Pairs (2 products)</option>
+            <option value="3">3 products</option>
+            <option value="4">4–5 products</option>
+          </select>
+        </label>
+        <label class="fc-field" for="f-q">Product<input id="f-q" type="search" placeholder="e.g. Salsa" autocomplete="off"></label>
+      </div>
+      <p class="fc-note"><b>Support</b> is the share of all baskets holding every product in the rule. <b>Confidence</b> is the share of baskets with the first products that also hold the suggestion. <b>Lift</b> is how many times likelier the suggestion is than in an average basket; 1 means no link.</p>
+    </div>
+    <div class="fc-grid">
+      <div class="fc-card fc-wide" id="scatter-card">
+        <h3>Every rule by support and confidence</h3>
+        <p class="fc-note">Each dot is a rule; bigger and darker means higher lift. Rules outside your filters are greyed. Click a dot to find it in the table.</p>
+        <div class="fc-chart" id="rule-scatter"></div>
+      </div>
+      <div class="fc-card fc-wide" id="table-card">
+        <div class="fc-card-head">
+          <h3>Ranked rules</h3>
+          <button type="button" class="fc-btn" id="download-rules">Download CSV</button>
+        </div>
+        <span class="fc-count" id="rule-count"></span>
+        <div class="fc-tablebox">
+          <table class="fc-table" id="rule-table">
+            <thead><tr>
+              <th class="num" data-field="rank"><button type="button" data-sort="rank">Rank</button></th>
+              <th data-field="antecedents"><button type="button" data-sort="antecedents">If the basket has</button></th>
+              <th data-field="consequents"><button type="button" data-sort="consequents">Suggest</button></th>
+              <th class="num" data-field="support"><button type="button" data-sort="support">Support</button></th>
+              <th class="num" data-field="confidence"><button type="button" data-sort="confidence">Confidence</button></th>
+              <th class="num" data-field="lift"><button type="button" data-sort="lift">Lift</button></th>
+              <th class="num" data-field="baskets"><button type="button" data-sort="baskets">Baskets</button></th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="fc-section" id="panel-recommender" role="tabpanel" hidden>
+    <div class="fc-card">
+      <h3>Build a basket</h3>
+      <p class="fc-note">Pick products and see what to suggest next. This is the logic behind a checkout prompt or a "frequently bought together" widget: find rules whose products are all in the basket, then rank what they suggest by lift.</p>
+      <div class="fc-presets">Try
+        <button type="button" class="fc-btn" data-preset="Spaghetti">Pasta night</button>
+        <button type="button" class="fc-btn" data-preset="Flour Tortillas|Salsa">Taco night</button>
+        <button type="button" class="fc-btn" data-preset="Burger Buns|Ground Beef">Burger night</button>
+        <button type="button" class="fc-btn" data-preset="Diapers">Baby run</button>
+        <button type="button" class="fc-btn" data-preset="Ground Coffee">Morning coffee</button>
+        <button type="button" class="fc-btn" data-preset="">Clear basket</button>
+      </div>
+      <div class="fc-chips" id="chips"></div>
+    </div>
+    <div class="fc-card" id="recs-card">
+      <h3 id="recs-title">Suggested next</h3>
+      <p class="fc-note" id="recs-basket"></p>
+      <div class="fc-recs" id="recs"></div>
+    </div>
+  </section>
+
+  <section class="fc-section" id="panel-network" role="tabpanel" hidden>
+    <div class="fc-card">
+      <h3>How products connect</h3>
+      <p class="fc-note">Each line is a product pair bought together more than chance predicts; thicker lines mean higher lift. Bigger circles are in more baskets. Hover a product to see its partners, or click it to open it in the recommender.</p>
+      <div class="fc-controls">
+        <label class="fc-field fc-field-narrow" for="f-net"><span class="fc-field-top">Show pairs with lift of at least <output id="o-net">3.0</output></span><input id="f-net" type="range" min="1.5" max="6" step="0.5" value="3"></label>
+      </div>
+      <div class="fc-chart fc-chart-net" id="net"></div>
+      <div class="fc-legend" id="net-legend"></div>
+    </div>
+  </section>
+
+  <section class="fc-section" id="panel-patterns" role="tabpanel" hidden>
+    <div class="fc-grid fc-grid-2">
+      <div class="fc-card" id="monthly-card">
+        <h3>Baskets per month</h3>
+        <p class="fc-note">2025. Hover a month for revenue and average order value.</p>
+        <div class="fc-chart" id="monthly"></div>
+      </div>
+      <div class="fc-card" id="size-card">
+        <h3>Basket size</h3>
+        <p class="fc-note">Baskets by number of distinct products. Each extra product adds about one item's price to the order.</p>
+        <div class="fc-chart" id="sizes"></div>
+      </div>
+      <div class="fc-card fc-wide" id="heat-card">
+        <h3>When people shop</h3>
+        <p class="fc-note">Baskets by weekday and hour of day, all of 2025. Weekends are the best time for bundle displays.</p>
+        <div class="fc-chart fc-chart-short" id="heat"></div>
+      </div>
+      <div class="fc-card" id="cat-card">
+        <h3>Revenue by category</h3>
+        <p class="fc-note">2025 revenue, with each category's share.</p>
+        <div class="fc-chart" id="cats"></div>
+      </div>
+      <div class="fc-card" id="prod-card">
+        <h3>Most-bought products</h3>
+        <p class="fc-note">Share of baskets containing each product (its support). Staples like these make weak suggestions because people buy them anyway.</p>
+        <div class="fc-chart" id="prods"></div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="fc-foot" id="footer"></footer>
+  <div class="fc-tip" hidden></div>
+</main>
+
+<script src="vendor/d3.v7.9.0.min.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

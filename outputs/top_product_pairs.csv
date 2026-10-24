@@ -1,0 +1,16 @@
+pair,antecedents,consequents,support,confidence,lift,baskets
+Baby Wipes + Diapers,Baby Wipes,Diapers,0.0545,0.6976,7.961,436
+Avocados + Flour Tortillas,Avocados,Flour Tortillas,0.0588,0.5774,5.668,470
+Parmesan + Pasta Sauce,Parmesan,Pasta Sauce,0.0428,0.6075,5.352,342
+Burger Buns + Ground Beef,Burger Buns,Ground Beef,0.0629,0.6853,5.312,503
+Pasta Sauce + Spaghetti,Pasta Sauce,Spaghetti,0.0796,0.7015,5.182,637
+Parmesan + Spaghetti,Parmesan,Spaghetti,0.0485,0.6892,5.091,388
+Green Tea + Honey,Honey,Green Tea,0.0366,0.4302,4.583,293
+Flour Tortillas + Salsa,Flour Tortillas,Salsa,0.0611,0.6,4.545,489
+Lemons + Salmon Fillet,Salmon Fillet,Lemons,0.0515,0.5302,4.396,412
+Burger Buns + Cheddar Cheese,Burger Buns,Cheddar Cheese,0.0465,0.5068,4.141,372
+Olive Oil + Salmon Fillet,Olive Oil,Salmon Fillet,0.028,0.3944,4.06,224
+Greek Yogurt + Strawberries,Strawberries,Greek Yogurt,0.0486,0.5173,3.79,389
+Croissants + Ground Coffee,Croissants,Ground Coffee,0.0425,0.5657,3.787,340
+Dark Chocolate + Red Wine,Dark Chocolate,Red Wine,0.0339,0.4414,3.725,271
+Salsa + Tortilla Chips,Salsa,Tortilla Chips,0.0786,0.5956,3.711,629

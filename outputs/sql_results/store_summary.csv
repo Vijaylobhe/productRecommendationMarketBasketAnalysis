@@ -1,0 +1,4 @@
+store_id,transactions,revenue,avg_order_value,avg_items_per_basket
+S01-Downtown,3604,107948.75,29.95,4.74
+S02-Riverside,2520,74814.24,29.69,4.73
+S03-Northgate,1876,56683.05,30.21,4.73

@@ -1,0 +1,614 @@
+itemset,length,support,baskets
+Sourdough Bread,1,0.26225,2098
+Whole Milk,1,0.250125,2001
+Free-Range Eggs,1,0.208875,1671
+Breakfast Cereal,1,0.16425,1314
+Bananas,1,0.164,1312
+Tortilla Chips,1,0.1605,1284
+Lettuce,1,0.1505,1204
+Ground Coffee,1,0.149375,1195
+Chicken Breast,1,0.144625,1157
+Tomatoes,1,0.14325,1146
+Greek Yogurt,1,0.1365,1092
+Spaghetti,1,0.135375,1083
+Butter,1,0.133,1064
+Salsa,1,0.132,1056
+Ground Beef,1,0.129,1032
+Cheddar Cheese,1,0.122375,979
+Lemons,1,0.120625,965
+Red Wine,1,0.1185,948
+Pasta Sauce,1,0.1135,908
+Strawberry Jam,1,0.107125,857
+Smoked Bacon,1,0.10425,834
+Flour Tortillas,1,0.101875,815
+Avocados,1,0.10175,814
+Craft Beer 6-pack,1,0.1,800
+Salmon Fillet,1,0.097125,777
+Strawberries,1,0.094,752
+Green Tea,1,0.093875,751
+Burger Buns,1,0.09175,734
+Onions,1,0.090875,727
+Diapers,1,0.087625,701
+Orange Juice,1,0.087625,701
+Honey,1,0.085125,681
+Peanut Butter,1,0.0825,660
+Baby Wipes,1,0.078125,625
+Dark Chocolate,1,0.07675,614
+Croissants,1,0.075125,601
+Olive Oil,1,0.071,568
+Parmesan,1,0.070375,563
+Sparkling Water,1,0.067125,537
+Paper Towels,1,0.030375,243
+Breakfast Cereal + Whole Milk,2,0.114875,919
+Free-Range Eggs + Sourdough Bread,2,0.108,864
+Butter + Sourdough Bread,2,0.093,744
+Pasta Sauce + Spaghetti,2,0.079625,637
+Salsa + Tortilla Chips,2,0.078625,629
+Sourdough Bread + Strawberry Jam,2,0.077125,617
+Ground Coffee + Whole Milk,2,0.074375,595
+Bananas + Whole Milk,2,0.071625,573
+Free-Range Eggs + Smoked Bacon,2,0.068625,549
+Bananas + Breakfast Cereal,2,0.06525,522
+Burger Buns + Ground Beef,2,0.062875,503
+Flour Tortillas + Salsa,2,0.061125,489
+Avocados + Flour Tortillas,2,0.05875,470
+Craft Beer 6-pack + Tortilla Chips,2,0.0565,452
+Sourdough Bread + Whole Milk,2,0.056,448
+Baby Wipes + Diapers,2,0.0545,436
+Chicken Breast + Lettuce,2,0.053625,429
+Chicken Breast + Tomatoes,2,0.053375,427
+Lettuce + Tomatoes,2,0.05225,418
+Butter + Free-Range Eggs,2,0.0515,412
+Lemons + Salmon Fillet,2,0.0515,412
+Greek Yogurt + Strawberries,2,0.048625,389
+Parmesan + Spaghetti,2,0.0485,388
+Avocados + Salsa,2,0.047875,383
+Cheddar Cheese + Ground Beef,2,0.047,376
+Burger Buns + Cheddar Cheese,2,0.0465,372
+Bananas + Sourdough Bread,2,0.04475,358
+Free-Range Eggs + Orange Juice,2,0.044,352
+Butter + Strawberry Jam,2,0.042875,343
+Parmesan + Pasta Sauce,2,0.04275,342
+Ground Beef + Lettuce,2,0.042625,341
+Croissants + Ground Coffee,2,0.0425,340
+Free-Range Eggs + Whole Milk,2,0.042,336
+Peanut Butter + Sourdough Bread,2,0.040875,327
+Smoked Bacon + Sourdough Bread,2,0.04075,326
+Burger Buns + Lettuce,2,0.039125,313
+Ground Beef + Tomatoes,2,0.039125,313
+Flour Tortillas + Ground Beef,2,0.03875,310
+Burger Buns + Tomatoes,2,0.038,304
+Flour Tortillas + Tortilla Chips,2,0.038,304
+Cheddar Cheese + Red Wine,2,0.037875,303
+Breakfast Cereal + Sourdough Bread,2,0.037,296
+Craft Beer 6-pack + Salsa,2,0.037,296
+Green Tea + Honey,2,0.036625,293
+Onions + Spaghetti,2,0.036375,291
+Cheddar Cheese + Tomatoes,2,0.03525,282
+Free-Range Eggs + Strawberry Jam,2,0.03525,282
+Lettuce + Salmon Fillet,2,0.03475,278
+Green Tea + Lemons,2,0.034375,275
+Ground Beef + Salsa,2,0.034125,273
+Sourdough Bread + Tortilla Chips,2,0.034,272
+Dark Chocolate + Red Wine,2,0.033875,271
+Greek Yogurt + Sourdough Bread,2,0.033875,271
+Ground Coffee + Sourdough Bread,2,0.033625,269
+Tortilla Chips + Whole Milk,2,0.03325,266
+Lettuce + Sourdough Bread,2,0.033125,265
+Avocados + Tortilla Chips,2,0.032875,263
+Greek Yogurt + Honey,2,0.032875,263
+Orange Juice + Smoked Bacon,2,0.032625,261
+Croissants + Whole Milk,2,0.0325,260
+Avocados + Ground Beef,2,0.032,256
+Chicken Breast + Whole Milk,2,0.032,256
+Cheddar Cheese + Lettuce,2,0.031625,253
+Lettuce + Whole Milk,2,0.031625,253
+Red Wine + Spaghetti,2,0.031625,253
+Lemons + Lettuce,2,0.03125,250
+Onions + Pasta Sauce,2,0.031,248
+Sourdough Bread + Spaghetti,2,0.031,248
+Bananas + Free-Range Eggs,2,0.03075,246
+Peanut Butter + Strawberry Jam,2,0.03075,246
+Chicken Breast + Sourdough Bread,2,0.0305,244
+Greek Yogurt + Whole Milk,2,0.0305,244
+Sourdough Bread + Tomatoes,2,0.0305,244
+Butter + Whole Milk,2,0.030375,243
+Spaghetti + Whole Milk,2,0.030375,243
+Orange Juice + Sourdough Bread,2,0.03025,242
+Salsa + Sourdough Bread,2,0.0295,236
+Salsa + Whole Milk,2,0.0285,228
+Breakfast Cereal + Free-Range Eggs,2,0.028125,225
+Olive Oil + Salmon Fillet,2,0.028,224
+Ground Beef + Tortilla Chips,2,0.027875,223
+Tomatoes + Whole Milk,2,0.02775,222
+Red Wine + Sourdough Bread,2,0.027625,221
+Chicken Breast + Olive Oil,2,0.026875,215
+Free-Range Eggs + Greek Yogurt,2,0.026875,215
+Lemons + Sourdough Bread,2,0.0265,212
+Pasta Sauce + Red Wine,2,0.02625,210
+Free-Range Eggs + Tortilla Chips,2,0.026,208
+Ground Beef + Whole Milk,2,0.025875,207
+Lettuce + Olive Oil,2,0.025875,207
+Pasta Sauce + Sourdough Bread,2,0.025875,207
+Ground Beef + Sourdough Bread,2,0.02575,206
+Chicken Breast + Free-Range Eggs,2,0.0255,204
+Cheddar Cheese + Sourdough Bread,2,0.02525,202
+Bananas + Peanut Butter,2,0.024875,199
+Craft Beer 6-pack + Whole Milk,2,0.024875,199
+Free-Range Eggs + Ground Coffee,2,0.024875,199
+Strawberry Jam + Whole Milk,2,0.02475,198
+Avocados + Whole Milk,2,0.024625,197
+Cheddar Cheese + Whole Milk,2,0.024625,197
+Free-Range Eggs + Tomatoes,2,0.024625,197
+Free-Range Eggs + Lettuce,2,0.024125,193
+Bananas + Strawberry Jam,2,0.02375,190
+Free-Range Eggs + Salsa,2,0.02375,190
+Bananas + Tomatoes,2,0.023375,187
+Smoked Bacon + Whole Milk,2,0.023375,187
+Bananas + Chicken Breast,2,0.02325,186
+Sourdough Bread + Strawberries,2,0.02325,186
+Free-Range Eggs + Spaghetti,2,0.023125,185
+Pasta Sauce + Whole Milk,2,0.023,184
+Avocados + Sourdough Bread,2,0.02275,182
+Bananas + Ground Coffee,2,0.02275,182
+Honey + Lemons,2,0.02275,182
+Bananas + Lettuce,2,0.022375,179
+Breakfast Cereal + Tortilla Chips,2,0.022375,179
+Cheddar Cheese + Dark Chocolate,2,0.02225,178
+Flour Tortillas + Whole Milk,2,0.022125,177
+Flour Tortillas + Sourdough Bread,2,0.022,176
+Breakfast Cereal + Lettuce,2,0.0215,172
+Lemons + Olive Oil,2,0.0215,172
+Red Wine + Whole Milk,2,0.0215,172
+Diapers + Sourdough Bread,2,0.021375,171
+Free-Range Eggs + Red Wine,2,0.02125,170
+Bananas + Spaghetti,2,0.021125,169
+Orange Juice + Whole Milk,2,0.021125,169
+Bananas + Tortilla Chips,2,0.021,168
+Cheddar Cheese + Free-Range Eggs,2,0.021,168
+Lemons + Whole Milk,2,0.021,168
+Onions + Sourdough Bread,2,0.021,168
+Tomatoes + Tortilla Chips,2,0.021,168
+Breakfast Cereal + Ground Coffee,2,0.020875,167
+Honey + Strawberries,2,0.020875,167
+Bananas + Butter,2,0.02075,166
+Craft Beer 6-pack + Sourdough Bread,2,0.02075,166
+Diapers + Whole Milk,2,0.02075,166
+Breakfast Cereal + Chicken Breast,2,0.020625,165
+Salmon Fillet + Sourdough Bread,2,0.0205,164
+Strawberries + Whole Milk,2,0.0205,164
+Breakfast Cereal + Greek Yogurt,2,0.02025,162
+Onions + Whole Milk,2,0.020125,161
+Breakfast Cereal + Butter,2,0.02,160
+Free-Range Eggs + Lemons,2,0.02,160
+Chicken Breast + Ground Coffee,2,0.019875,159
+Lettuce + Tortilla Chips,2,0.019875,159
+Greek Yogurt + Ground Coffee,2,0.01975,158
+Green Tea + Sourdough Bread,2,0.01975,158
+Chicken Breast + Tortilla Chips,2,0.019625,157
+Peanut Butter + Whole Milk,2,0.019625,157
+Free-Range Eggs + Ground Beef,2,0.0195,156
+Bananas + Greek Yogurt,2,0.019375,155
+Breakfast Cereal + Tomatoes,2,0.01925,154
+Honey + Sourdough Bread,2,0.01925,154
+Bananas + Cheddar Cheese,2,0.019125,153
+Breakfast Cereal + Salsa,2,0.019125,153
+Craft Beer 6-pack + Diapers,2,0.018875,151
+Chicken Breast + Greek Yogurt,2,0.01875,150
+Breakfast Cereal + Spaghetti,2,0.0185,148
+Green Tea + Whole Milk,2,0.0185,148
+Free-Range Eggs + Pasta Sauce,2,0.018375,147
+Burger Buns + Sourdough Bread,2,0.018125,145
+Butter + Tortilla Chips,2,0.018125,145
+Cheddar Cheese + Tortilla Chips,2,0.018125,145
+Craft Beer 6-pack + Free-Range Eggs,2,0.018125,145
+Lettuce + Spaghetti,2,0.018125,145
+Olive Oil + Tomatoes,2,0.018125,145
+Greek Yogurt + Tortilla Chips,2,0.018,144
+Spaghetti + Tortilla Chips,2,0.018,144
+Free-Range Eggs + Onions,2,0.01775,142
+Greek Yogurt + Tomatoes,2,0.01775,142
+Ground Coffee + Spaghetti,2,0.017625,141
+Breakfast Cereal + Ground Beef,2,0.0175,140
+Butter + Ground Coffee,2,0.0175,140
+Cheddar Cheese + Ground Coffee,2,0.0175,140
+Ground Coffee + Tortilla Chips,2,0.0175,140
+Bananas + Ground Beef,2,0.017375,139
+Bananas + Salsa,2,0.017375,139
+Croissants + Sourdough Bread,2,0.017375,139
+Dark Chocolate + Sourdough Bread,2,0.017375,139
+Butter + Lettuce,2,0.01725,138
+Onions + Parmesan,2,0.01725,138
+Salmon Fillet + Whole Milk,2,0.01725,138
+Baby Wipes + Whole Milk,2,0.017125,137
+Bananas + Lemons,2,0.017125,137
+Ground Coffee + Lettuce,2,0.017,136
+Spaghetti + Tomatoes,2,0.017,136
+Burger Buns + Whole Milk,2,0.016875,135
+Avocados + Free-Range Eggs,2,0.01675,134
+Baby Wipes + Sourdough Bread,2,0.01675,134
+Bananas + Red Wine,2,0.01675,134
+Bananas + Smoked Bacon,2,0.01675,134
+Ground Coffee + Salsa,2,0.01675,134
+Ground Coffee + Tomatoes,2,0.01675,134
+Chicken Breast + Spaghetti,2,0.016625,133
+Diapers + Free-Range Eggs,2,0.016625,133
+Honey + Whole Milk,2,0.016625,133
+Salsa + Spaghetti,2,0.016625,133
+Bananas + Pasta Sauce,2,0.0165,132
+Greek Yogurt + Lettuce,2,0.0165,132
+Ground Coffee + Red Wine,2,0.0165,132
+Free-Range Eggs + Green Tea,2,0.016375,131
+Lemons + Tortilla Chips,2,0.016375,131
+Dark Chocolate + Free-Range Eggs,2,0.01625,130
+Flour Tortillas + Free-Range Eggs,2,0.01625,130
+Free-Range Eggs + Strawberries,2,0.01625,130
+Ground Coffee + Pasta Sauce,2,0.01625,130
+Butter + Greek Yogurt,2,0.016125,129
+Butter + Tomatoes,2,0.016125,129
+Avocados + Breakfast Cereal,2,0.016,128
+Butter + Spaghetti,2,0.016,128
+Greek Yogurt + Lemons,2,0.016,128
+Baby Wipes + Craft Beer 6-pack,2,0.015875,127
+Ground Beef + Ground Coffee,2,0.015875,127
+Red Wine + Tomatoes,2,0.015875,127
+Breakfast Cereal + Strawberry Jam,2,0.01575,126
+Cheddar Cheese + Chicken Breast,2,0.01575,126
+Dark Chocolate + Whole Milk,2,0.01575,126
+Ground Coffee + Strawberry Jam,2,0.01575,126
+Parmesan + Sourdough Bread,2,0.01575,126
+Breakfast Cereal + Cheddar Cheese,2,0.015625,125
+Lettuce + Salsa,2,0.015625,125
+Breakfast Cereal + Craft Beer 6-pack,2,0.0155,124
+Breakfast Cereal + Red Wine,2,0.0155,124
+Cheddar Cheese + Greek Yogurt,2,0.0155,124
+Chicken Breast + Lemons,2,0.0155,124
+Greek Yogurt + Salsa,2,0.0155,124
+Avocados + Tomatoes,2,0.015375,123
+Breakfast Cereal + Flour Tortillas,2,0.015375,123
+Chicken Breast + Red Wine,2,0.015375,123
+Free-Range Eggs + Salmon Fillet,2,0.015375,123
+Greek Yogurt + Ground Beef,2,0.015375,123
+Parmesan + Red Wine,2,0.015375,123
+Parmesan + Whole Milk,2,0.015375,123
+Red Wine + Tortilla Chips,2,0.015375,123
+Sparkling Water + Whole Milk,2,0.015375,123
+Butter + Salsa,2,0.01525,122
+Chicken Breast + Pasta Sauce,2,0.01525,122
+Chicken Breast + Salsa,2,0.01525,122
+Bananas + Onions,2,0.015125,121
+Breakfast Cereal + Lemons,2,0.015125,121
+Burger Buns + Free-Range Eggs,2,0.015125,121
+Ground Coffee + Lemons,2,0.015125,121
+Sourdough Bread + Sparkling Water,2,0.015125,121
+Breakfast Cereal + Onions,2,0.014875,119
+Chicken Breast + Ground Beef,2,0.014875,119
+Lemons + Tomatoes,2,0.01475,118
+Onions + Red Wine,2,0.01475,118
+Butter + Chicken Breast,2,0.014625,117
+Flour Tortillas + Ground Coffee,2,0.0145,116
+Breakfast Cereal + Diapers,2,0.014375,115
+Breakfast Cereal + Pasta Sauce,2,0.014375,115
+Bananas + Flour Tortillas,2,0.01425,114
+Free-Range Eggs + Peanut Butter,2,0.01425,114
+Lemons + Salsa,2,0.01425,114
+Salsa + Tomatoes,2,0.01425,114
+Avocados + Bananas,2,0.014125,113
+Bananas + Craft Beer 6-pack,2,0.014125,113
+Bananas + Diapers,2,0.014125,113
+Breakfast Cereal + Smoked Bacon,2,0.014,112
+Cheddar Cheese + Salsa,2,0.014,112
+Greek Yogurt + Red Wine,2,0.014,112
+Pasta Sauce + Tortilla Chips,2,0.014,112
+Bananas + Salmon Fillet,2,0.013875,111
+Butter + Craft Beer 6-pack,2,0.013875,111
+Chicken Breast + Salmon Fillet,2,0.013875,111
+Greek Yogurt + Spaghetti,2,0.013875,111
+Lemons + Spaghetti,2,0.013875,111
+Lettuce + Pasta Sauce,2,0.013875,111
+Salmon Fillet + Tomatoes,2,0.013875,111
+Chicken Breast + Strawberry Jam,2,0.01375,110
+Pasta Sauce + Tomatoes,2,0.01375,110
+Avocados + Ground Coffee,2,0.0135,108
+Chicken Breast + Strawberries,2,0.0135,108
+Avocados + Lettuce,2,0.013375,107
+Free-Range Eggs + Honey,2,0.013375,107
+Greek Yogurt + Smoked Bacon,2,0.013375,107
+Lettuce + Smoked Bacon,2,0.013375,107
+Olive Oil + Sourdough Bread,2,0.013375,107
+Baby Wipes + Free-Range Eggs,2,0.01325,106
+Butter + Pasta Sauce,2,0.01325,106
+Onions + Tortilla Chips,2,0.01325,106
+Bananas + Strawberries,2,0.013125,105
+Butter + Ground Beef,2,0.013125,105
+Butter + Red Wine,2,0.013125,105
+Chicken Breast + Smoked Bacon,2,0.013125,105
+Croissants + Free-Range Eggs,2,0.013125,105
+Free-Range Eggs + Sparkling Water,2,0.013125,105
+Ground Beef + Spaghetti,2,0.013125,105
+Ground Coffee + Orange Juice,2,0.013125,105
+Lettuce + Onions,2,0.013125,105
+Lettuce + Red Wine,2,0.013125,105
+Olive Oil + Whole Milk,2,0.013125,105
+Pasta Sauce + Salsa,2,0.013,104
+Burger Buns + Tortilla Chips,2,0.012875,103
+Butter + Cheddar Cheese,2,0.012875,103
+Bananas + Croissants,2,0.01275,102
+Breakfast Cereal + Green Tea,2,0.01275,102
+Smoked Bacon + Tortilla Chips,2,0.01275,102
+Avocados + Greek Yogurt,2,0.012625,101
+Cheddar Cheese + Lemons,2,0.012625,101
+Cheddar Cheese + Spaghetti,2,0.012625,101
+Greek Yogurt + Green Tea,2,0.012625,101
+Salmon Fillet + Tortilla Chips,2,0.012625,101
+Bananas + Orange Juice,2,0.0125,100
+Green Tea + Lettuce,2,0.0125,100
+Ground Coffee + Onions,2,0.0125,100
+Lemons + Pasta Sauce,2,0.0125,100
+Strawberries + Tortilla Chips,2,0.0125,100
+Strawberry Jam + Tortilla Chips,2,0.0125,100
+Avocados + Chicken Breast,2,0.012375,99
+Breakfast Cereal + Strawberries,2,0.012375,99
+Flour Tortillas + Greek Yogurt,2,0.012375,99
+Green Tea + Tortilla Chips,2,0.012375,99
+Ground Coffee + Strawberries,2,0.012375,99
+Breakfast Cereal + Salmon Fillet,2,0.01225,98
+Greek Yogurt + Onions,2,0.01225,98
+Green Tea + Ground Coffee,2,0.01225,98
+Ground Beef + Lemons,2,0.01225,98
+Smoked Bacon + Spaghetti,2,0.01225,98
+Breakfast Cereal + Orange Juice,2,0.012125,97
+Craft Beer 6-pack + Spaghetti,2,0.012125,97
+Ground Beef + Red Wine,2,0.012125,97
+Ground Coffee + Smoked Bacon,2,0.012125,97
+Lettuce + Strawberries,2,0.012125,97
+Onions + Tomatoes,2,0.012125,97
+Orange Juice + Tortilla Chips,2,0.012125,97
+Bananas + Dark Chocolate,2,0.012,96
+Bananas + Green Tea,2,0.012,96
+Flour Tortillas + Tomatoes,2,0.012,96
+Red Wine + Salsa,2,0.012,96
+Craft Beer 6-pack + Ground Coffee,2,0.011875,95
+Diapers + Tortilla Chips,2,0.011875,95
+Flour Tortillas + Lettuce,2,0.011875,95
+Ground Beef + Smoked Bacon,2,0.011875,95
+Burger Buns + Greek Yogurt,2,0.01175,94
+Butter + Flour Tortillas,2,0.01175,94
+Cheddar Cheese + Smoked Bacon,2,0.01175,94
+Free-Range Eggs + Parmesan,2,0.01175,94
+Salmon Fillet + Spaghetti,2,0.01175,94
+Salsa + Strawberry Jam,2,0.01175,94
+Strawberries + Tomatoes,2,0.01175,94
+Avocados + Spaghetti,2,0.011625,93
+Bananas + Burger Buns,2,0.011625,93
+Spaghetti + Strawberry Jam,2,0.011625,93
+Sparkling Water + Tortilla Chips,2,0.011625,93
+Baby Wipes + Bananas,2,0.0115,92
+Baby Wipes + Breakfast Cereal,2,0.0115,92
+Cheddar Cheese + Flour Tortillas,2,0.0115,92
+Onions + Salsa,2,0.0115,92
+Peanut Butter + Tortilla Chips,2,0.0115,92
+Breakfast Cereal + Dark Chocolate,2,0.011375,91
+Butter + Diapers,2,0.011375,91
+Craft Beer 6-pack + Greek Yogurt,2,0.011375,91
+Greek Yogurt + Orange Juice,2,0.011375,91
+Red Wine + Smoked Bacon,2,0.011375,91
+Avocados + Butter,2,0.01125,90
+Chicken Breast + Craft Beer 6-pack,2,0.01125,90
+Diapers + Ground Coffee,2,0.01125,90
+Flour Tortillas + Spaghetti,2,0.01125,90
+Green Tea + Tomatoes,2,0.01125,90
+Honey + Tomatoes,2,0.01125,90
+Strawberry Jam + Tomatoes,2,0.01125,90
+Chicken Breast + Onions,2,0.011125,89
+Greek Yogurt + Pasta Sauce,2,0.011125,89
+Breakfast Cereal + Honey,2,0.011,88
+Butter + Lemons,2,0.011,88
+Butter + Smoked Bacon,2,0.011,88
+Craft Beer 6-pack + Red Wine,2,0.011,88
+Honey + Tortilla Chips,2,0.011,88
+Salsa + Smoked Bacon,2,0.011,88
+Breakfast Cereal + Peanut Butter,2,0.010875,87
+Cheddar Cheese + Orange Juice,2,0.010875,87
+Diapers + Tomatoes,2,0.010875,87
+Ground Beef + Pasta Sauce,2,0.010875,87
+Smoked Bacon + Tomatoes,2,0.010875,87
+Sparkling Water + Tomatoes,2,0.010875,87
+Burger Buns + Chicken Breast,2,0.01075,86
+Butter + Orange Juice,2,0.01075,86
+Chicken Breast + Green Tea,2,0.01075,86
+Ground Beef + Onions,2,0.01075,86
+Ground Coffee + Peanut Butter,2,0.01075,86
+Ground Coffee + Salmon Fillet,2,0.01075,86
+Lemons + Red Wine,2,0.01075,86
+Peanut Butter + Tomatoes,2,0.01075,86
+Bananas + Honey,2,0.010625,85
+Bananas + Parmesan,2,0.010625,85
+Bananas + Sparkling Water,2,0.010625,85
+Cheddar Cheese + Pasta Sauce,2,0.010625,85
+Flour Tortillas + Lemons,2,0.010625,85
+Greek Yogurt + Salmon Fillet,2,0.010625,85
+Greek Yogurt + Strawberry Jam,2,0.010625,85
+Green Tea + Spaghetti,2,0.010625,85
+Ground Beef + Strawberries,2,0.010625,85
+Lettuce + Strawberry Jam,2,0.010625,85
+Spaghetti + Strawberries,2,0.010625,85
+Butter + Onions,2,0.0105,84
+Cheddar Cheese + Strawberries,2,0.0105,84
+Chicken Breast + Honey,2,0.0105,84
+Dark Chocolate + Greek Yogurt,2,0.0105,84
+Ground Beef + Salmon Fillet,2,0.0105,84
+Lemons + Smoked Bacon,2,0.0105,84
+Lettuce + Orange Juice,2,0.0105,84
+Avocados + Lemons,2,0.010375,83
+Burger Buns + Ground Coffee,2,0.010375,83
+Chicken Breast + Dark Chocolate,2,0.010375,83
+Orange Juice + Salsa,2,0.010375,83
+Orange Juice + Spaghetti,2,0.010375,83
+Red Wine + Strawberry Jam,2,0.010375,83
+Salsa + Strawberries,2,0.010375,83
+Breakfast Cereal + Croissants,2,0.01025,82
+Butter + Green Tea,2,0.01025,82
+Cheddar Cheese + Craft Beer 6-pack,2,0.01025,82
+Greek Yogurt + Peanut Butter,2,0.01025,82
+Salmon Fillet + Salsa,2,0.01025,82
+Avocados + Cheddar Cheese,2,0.010125,81
+Breakfast Cereal + Burger Buns,2,0.010125,81
+Cheddar Cheese + Green Tea,2,0.010125,81
+Flour Tortillas + Pasta Sauce,2,0.010125,81
+Ground Beef + Peanut Butter,2,0.010125,81
+Ground Beef + Strawberry Jam,2,0.010125,81
+Red Wine + Strawberries,2,0.010125,81
+Craft Beer 6-pack + Tomatoes,2,0.01,80
+Diapers + Greek Yogurt,2,0.01,80
+Diapers + Lettuce,2,0.01,80
+Ground Coffee + Sparkling Water,2,0.01,80
+Lemons + Onions,2,0.01,80
+Lemons + Strawberries,2,0.01,80
+Spaghetti + Sparkling Water,2,0.01,80
+Bananas + Breakfast Cereal + Whole Milk,3,0.053875,431
+Butter + Free-Range Eggs + Sourdough Bread,3,0.043,344
+Avocados + Flour Tortillas + Salsa,3,0.042125,337
+Parmesan + Pasta Sauce + Spaghetti,3,0.04025,322
+Burger Buns + Cheddar Cheese + Ground Beef,3,0.039375,315
+Butter + Sourdough Bread + Strawberry Jam,3,0.0385,308
+Free-Range Eggs + Smoked Bacon + Sourdough Bread,3,0.0335,268
+Burger Buns + Ground Beef + Lettuce,3,0.0325,260
+Burger Buns + Ground Beef + Tomatoes,3,0.031625,253
+Craft Beer 6-pack + Salsa + Tortilla Chips,3,0.0315,252
+Free-Range Eggs + Sourdough Bread + Strawberry Jam,3,0.03125,250
+Flour Tortillas + Salsa + Tortilla Chips,3,0.028375,227
+Chicken Breast + Lettuce + Tomatoes,3,0.027875,223
+Onions + Pasta Sauce + Spaghetti,3,0.02775,222
+Free-Range Eggs + Orange Juice + Smoked Bacon,3,0.027625,221
+Flour Tortillas + Ground Beef + Salsa,3,0.0275,220
+Avocados + Flour Tortillas + Ground Beef,3,0.026,208
+Croissants + Ground Coffee + Whole Milk,3,0.026,208
+Avocados + Flour Tortillas + Tortilla Chips,3,0.025875,207
+Breakfast Cereal + Sourdough Bread + Whole Milk,3,0.025125,201
+Burger Buns + Cheddar Cheese + Tomatoes,3,0.024625,197
+Avocados + Salsa + Tortilla Chips,3,0.023375,187
+Burger Buns + Cheddar Cheese + Lettuce,3,0.023125,185
+Cheddar Cheese + Ground Beef + Tomatoes,3,0.022625,181
+Free-Range Eggs + Orange Juice + Sourdough Bread,3,0.022,176
+Pasta Sauce + Red Wine + Spaghetti,3,0.021875,175
+Lemons + Lettuce + Salmon Fillet,3,0.02175,174
+Cheddar Cheese + Ground Beef + Lettuce,3,0.020875,167
+Free-Range Eggs + Sourdough Bread + Whole Milk,3,0.02075,166
+Burger Buns + Lettuce + Tomatoes,3,0.0205,164
+Ground Beef + Lettuce + Tomatoes,3,0.0205,164
+Avocados + Ground Beef + Salsa,3,0.02,160
+Butter + Sourdough Bread + Whole Milk,3,0.02,160
+Peanut Butter + Sourdough Bread + Strawberry Jam,3,0.019875,159
+Butter + Free-Range Eggs + Strawberry Jam,3,0.019125,153
+Bananas + Sourdough Bread + Whole Milk,3,0.018,144
+Breakfast Cereal + Free-Range Eggs + Whole Milk,3,0.017875,143
+Green Tea + Honey + Lemons,3,0.017625,141
+Pasta Sauce + Sourdough Bread + Spaghetti,3,0.017125,137
+Salsa + Sourdough Bread + Tortilla Chips,3,0.017125,137
+Breakfast Cereal + Ground Coffee + Whole Milk,3,0.01675,134
+Greek Yogurt + Honey + Strawberries,3,0.016625,133
+Salsa + Tortilla Chips + Whole Milk,3,0.0165,132
+Ground Beef + Salsa + Tortilla Chips,3,0.016375,131
+Cheddar Cheese + Dark Chocolate + Red Wine,3,0.01625,130
+Lemons + Olive Oil + Salmon Fillet,3,0.01625,130
+Pasta Sauce + Spaghetti + Whole Milk,3,0.016,128
+Bananas + Sourdough Bread + Strawberry Jam,3,0.015875,127
+Sourdough Bread + Strawberry Jam + Whole Milk,3,0.015875,127
+Bananas + Free-Range Eggs + Sourdough Bread,3,0.015625,125
+Cheddar Cheese + Lettuce + Tomatoes,3,0.015625,125
+Onions + Parmesan + Spaghetti,3,0.0155,124
+Flour Tortillas + Ground Beef + Tortilla Chips,3,0.01525,122
+Bananas + Breakfast Cereal + Sourdough Bread,3,0.015125,121
+Bananas + Butter + Sourdough Bread,3,0.014875,119
+Breakfast Cereal + Lettuce + Whole Milk,3,0.014875,119
+Orange Juice + Smoked Bacon + Sourdough Bread,3,0.014875,119
+Free-Range Eggs + Smoked Bacon + Whole Milk,3,0.014125,113
+Breakfast Cereal + Butter + Whole Milk,3,0.014,112
+Ground Coffee + Sourdough Bread + Whole Milk,3,0.014,112
+Avocados + Flour Tortillas + Whole Milk,3,0.013875,111
+Breakfast Cereal + Free-Range Eggs + Sourdough Bread,3,0.013875,111
+Flour Tortillas + Salsa + Sourdough Bread,3,0.013875,111
+Free-Range Eggs + Greek Yogurt + Sourdough Bread,3,0.013875,111
+Baby Wipes + Craft Beer 6-pack + Diapers,3,0.01375,110
+Bananas + Ground Coffee + Whole Milk,3,0.0135,108
+Chicken Breast + Lettuce + Olive Oil,3,0.0135,108
+Free-Range Eggs + Salsa + Tortilla Chips,3,0.0135,108
+Onions + Parmesan + Pasta Sauce,3,0.01325,106
+Breakfast Cereal + Greek Yogurt + Whole Milk,3,0.013125,105
+Breakfast Cereal + Chicken Breast + Whole Milk,3,0.013,104
+Breakfast Cereal + Tortilla Chips + Whole Milk,3,0.013,104
+Chicken Breast + Olive Oil + Tomatoes,3,0.013,104
+Bananas + Peanut Butter + Sourdough Bread,3,0.012875,103
+Free-Range Eggs + Ground Coffee + Sourdough Bread,3,0.012875,103
+Free-Range Eggs + Sourdough Bread + Tortilla Chips,3,0.012875,103
+Breakfast Cereal + Butter + Sourdough Bread,3,0.01275,102
+Breakfast Cereal + Spaghetti + Whole Milk,3,0.01275,102
+Butter + Sourdough Bread + Tortilla Chips,3,0.01275,102
+Flour Tortillas + Salsa + Whole Milk,3,0.01275,102
+Parmesan + Red Wine + Spaghetti,3,0.0125,100
+Baby Wipes + Diapers + Whole Milk,3,0.012375,99
+Craft Beer 6-pack + Tortilla Chips + Whole Milk,3,0.012375,99
+Free-Range Eggs + Lettuce + Sourdough Bread,3,0.012125,97
+Lettuce + Olive Oil + Salmon Fillet,3,0.012125,97
+Chicken Breast + Free-Range Eggs + Sourdough Bread,3,0.012,96
+Free-Range Eggs + Pasta Sauce + Spaghetti,3,0.012,96
+Avocados + Ground Beef + Tortilla Chips,3,0.011875,95
+Breakfast Cereal + Tomatoes + Whole Milk,3,0.011875,95
+Bananas + Free-Range Eggs + Whole Milk,3,0.01175,94
+Baby Wipes + Diapers + Sourdough Bread,3,0.011625,93
+Breakfast Cereal + Salsa + Whole Milk,3,0.011625,93
+Butter + Ground Coffee + Sourdough Bread,3,0.011625,93
+Free-Range Eggs + Salsa + Sourdough Bread,3,0.011625,93
+Avocados + Salsa + Whole Milk,3,0.0115,92
+Bananas + Pasta Sauce + Spaghetti,3,0.0115,92
+Bananas + Peanut Butter + Strawberry Jam,3,0.0115,92
+Burger Buns + Ground Beef + Sourdough Bread,3,0.0115,92
+Chicken Breast + Lettuce + Whole Milk,3,0.011375,91
+Free-Range Eggs + Sourdough Bread + Tomatoes,3,0.011375,91
+Breakfast Cereal + Ground Beef + Whole Milk,3,0.01125,90
+Butter + Greek Yogurt + Sourdough Bread,3,0.01125,90
+Parmesan + Pasta Sauce + Red Wine,3,0.01125,90
+Breakfast Cereal + Salsa + Tortilla Chips,3,0.011125,89
+Burger Buns + Ground Beef + Whole Milk,3,0.011125,89
+Butter + Lettuce + Sourdough Bread,3,0.011125,89
+Avocados + Flour Tortillas + Sourdough Bread,3,0.011,88
+Butter + Salsa + Sourdough Bread,3,0.011,88
+Free-Range Eggs + Sourdough Bread + Spaghetti,3,0.010875,87
+Bananas + Breakfast Cereal + Free-Range Eggs,3,0.01075,86
+Free-Range Eggs + Ground Coffee + Whole Milk,3,0.01075,86
+Breakfast Cereal + Strawberry Jam + Whole Milk,3,0.010625,85
+Greek Yogurt + Sourdough Bread + Strawberries,3,0.010625,85
+Chicken Breast + Tomatoes + Whole Milk,3,0.010375,83
+Craft Beer 6-pack + Sourdough Bread + Tortilla Chips,3,0.010375,83
+Ground Coffee + Sourdough Bread + Strawberry Jam,3,0.010375,83
+Bananas + Butter + Whole Milk,3,0.01025,82
+Breakfast Cereal + Cheddar Cheese + Whole Milk,3,0.01025,82
+Breakfast Cereal + Pasta Sauce + Spaghetti,3,0.01025,82
+Avocados + Breakfast Cereal + Whole Milk,3,0.010125,81
+Avocados + Salsa + Sourdough Bread,3,0.010125,81
+Bananas + Lettuce + Whole Milk,3,0.010125,81
+Breakfast Cereal + Smoked Bacon + Whole Milk,3,0.010125,81
+Breakfast Cereal + Sourdough Bread + Strawberry Jam,3,0.010125,81
+Chicken Breast + Lettuce + Sourdough Bread,3,0.010125,81
+Chicken Breast + Sourdough Bread + Tomatoes,3,0.010125,81
+Lettuce + Sourdough Bread + Tomatoes,3,0.010125,81
+Onions + Red Wine + Spaghetti,3,0.010125,81
+Parmesan + Sourdough Bread + Spaghetti,3,0.010125,81
+Chicken Breast + Free-Range Eggs + Tomatoes,3,0.01,80
+Ground Coffee + Pasta Sauce + Spaghetti,3,0.01,80
+Burger Buns + Cheddar Cheese + Ground Beef + Tomatoes,4,0.02075,166
+Avocados + Flour Tortillas + Salsa + Tortilla Chips,4,0.01975,158
+Burger Buns + Cheddar Cheese + Ground Beef + Lettuce,4,0.019625,157
+Avocados + Flour Tortillas + Ground Beef + Salsa,4,0.019125,153
+Butter + Free-Range Eggs + Sourdough Bread + Strawberry Jam,4,0.018375,147
+Burger Buns + Ground Beef + Lettuce + Tomatoes,4,0.017875,143
+Free-Range Eggs + Orange Juice + Smoked Bacon + Sourdough Bread,4,0.0135,108
+Burger Buns + Cheddar Cheese + Lettuce + Tomatoes,4,0.013125,105
+Onions + Parmesan + Pasta Sauce + Spaghetti,4,0.013,104
+Bananas + Breakfast Cereal + Sourdough Bread + Whole Milk,4,0.01225,98
+Flour Tortillas + Ground Beef + Salsa + Tortilla Chips,4,0.011875,95
+Cheddar Cheese + Ground Beef + Lettuce + Tomatoes,4,0.01175,94
+Parmesan + Pasta Sauce + Red Wine + Spaghetti,4,0.0105,84
+Avocados + Flour Tortillas + Ground Beef + Tortilla Chips,4,0.010375,83
+Burger Buns + Cheddar Cheese + Ground Beef + Lettuce + Tomatoes,5,0.011,88

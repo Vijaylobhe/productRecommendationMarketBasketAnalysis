@@ -1,0 +1,5 @@
+segment,customers,avg_visits,avg_spend
+1 visit,295,1.0,29.7
+2-3 visits,931,2.51,75.25
+4-5 visits,638,4.38,131.37
+6+ visits,244,6.73,200.19

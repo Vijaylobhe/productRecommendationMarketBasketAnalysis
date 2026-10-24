@@ -1,0 +1,41 @@
+product_id,product_name,category,transactions,support,units_sold,revenue,popularity_rank
+P007,Sourdough Bread,Bakery,2098,0.2622,3255,12987.45,1
+P001,Whole Milk,Dairy,2001,0.2501,3129,4662.21,2
+P005,Free-Range Eggs,Dairy,1671,0.2089,2602,9861.58,3
+P020,Breakfast Cereal,Pantry,1314,0.1643,2072,8060.08,4
+P011,Bananas,Produce,1312,0.164,2034,2623.86,5
+P031,Tortilla Chips,Snacks,1284,0.1605,2044,6111.56,6
+P015,Lettuce,Produce,1204,0.1505,1884,3372.36,7
+P025,Ground Coffee,Beverages,1195,0.1494,1901,13287.99,8
+P035,Chicken Breast,Meat & Seafood,1157,0.1446,1814,13586.86,9
+P013,Tomatoes,Produce,1146,0.1432,1829,4005.51,10
+P004,Greek Yogurt,Dairy,1092,0.1365,1735,2064.65,11
+P018,Spaghetti,Pantry,1083,0.1354,1732,2753.88,12
+P002,Butter,Dairy,1064,0.133,1675,5510.75,13
+P032,Salsa,Snacks,1056,0.132,1688,5384.72,14
+P034,Ground Beef,Meat & Seafood,1032,0.129,1599,10377.51,15
+P003,Cheddar Cheese,Dairy,979,0.1224,1565,7809.35,16
+P016,Lemons,Produce,965,0.1206,1494,1030.86,17
+P030,Red Wine,Alcohol,948,0.1185,1509,18092.91,18
+P019,Pasta Sauce,Pantry,908,0.1135,1393,4165.07,19
+P021,Strawberry Jam,Pantry,857,0.1071,1356,3783.24,20
+P036,Smoked Bacon,Meat & Seafood,834,0.1042,1286,6417.14,21
+P010,Flour Tortillas,Bakery,815,0.1019,1294,2963.26,22
+P012,Avocados,Produce,814,0.1017,1261,2509.39,23
+P029,Craft Beer 6-pack,Alcohol,800,0.1,1253,12517.47,24
+P037,Salmon Fillet,Meat & Seafood,777,0.0971,1232,12307.68,25
+P017,Strawberries,Produce,752,0.094,1183,4720.17,26
+P026,Green Tea,Beverages,751,0.0939,1181,3885.49,27
+P008,Burger Buns,Bakery,734,0.0917,1155,2875.95,28
+P014,Onions,Produce,727,0.0909,1131,1232.79,29
+P027,Orange Juice,Beverages,701,0.0876,1104,3852.96,30
+P038,Diapers,Baby & Household,701,0.0876,1060,13769.4,30
+P023,Honey,Pantry,681,0.0851,1055,4736.95,32
+P022,Peanut Butter,Pantry,660,0.0825,1011,3528.39,33
+P039,Baby Wipes,Baby & Household,625,0.0781,991,3954.09,34
+P033,Dark Chocolate,Snacks,614,0.0767,957,2382.93,35
+P009,Croissants,Bakery,601,0.0751,915,3193.35,36
+P024,Olive Oil,Pantry,568,0.071,902,7206.98,37
+P006,Parmesan,Dairy,563,0.0704,912,5006.88,38
+P028,Sparkling Water,Beverages,537,0.0671,846,837.54,39
+P040,Paper Towels,Baby & Household,243,0.0304,367,2014.83,40

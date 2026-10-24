@@ -1,0 +1,37 @@
+category_a,category_b,together,support,lift
+Alcohol,Snacks,846,0.1057,1.836
+Alcohol,Baby & Household,285,0.0356,1.24
+Meat & Seafood,Produce,2284,0.2855,1.184
+Bakery,Meat & Seafood,1700,0.2125,1.138
+Bakery,Snacks,1137,0.1421,1.116
+Bakery,Dairy,2631,0.3289,1.1
+Dairy,Pantry,2953,0.3691,1.074
+Pantry,Produce,2677,0.3346,1.072
+Beverages,Dairy,1905,0.2381,1.06
+Bakery,Produce,2253,0.2816,1.037
+Bakery,Beverages,1290,0.1613,1.02
+Produce,Snacks,1331,0.1664,1.012
+Alcohol,Dairy,1093,0.1366,1.01
+Dairy,Meat & Seafood,2144,0.268,1.01
+Meat & Seafood,Snacks,902,0.1128,0.997
+Bakery,Pantry,1924,0.2405,0.994
+Dairy,Produce,3061,0.3826,0.992
+Beverages,Pantry,1434,0.1792,0.986
+Alcohol,Pantry,851,0.1064,0.972
+Beverages,Meat & Seafood,1089,0.1361,0.97
+Beverages,Produce,1562,0.1953,0.957
+Baby & Household,Beverages,363,0.0454,0.95
+Meat & Seafood,Pantry,1625,0.2031,0.946
+Baby & Household,Pantry,548,0.0685,0.938
+Dairy,Snacks,1350,0.1688,0.933
+Baby & Household,Dairy,672,0.084,0.931
+Alcohol,Beverages,528,0.066,0.923
+Baby & Household,Produce,601,0.0751,0.916
+Baby & Household,Bakery,455,0.0569,0.895
+Beverages,Snacks,672,0.084,0.878
+Alcohol,Produce,852,0.1065,0.867
+Baby & Household,Meat & Seafood,391,0.0489,0.867
+Pantry,Snacks,1016,0.127,0.867
+Alcohol,Bakery,643,0.0804,0.845
+Baby & Household,Snacks,255,0.0319,0.829
+Alcohol,Meat & Seafood,557,0.0696,0.824
